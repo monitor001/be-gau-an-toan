@@ -2,8 +2,8 @@
 
 Game web giáo dục an toàn cho trẻ (prototype), chơi cùng người lớn.
 
-**Thử ngay:** sau khi bật GitHub Pages, mở link dạng  
-`https://<user>.github.io/be-gau-an-toan/`
+**Thử ngay (GitHub Pages):** https://monitor001.github.io/be-gau-an-toan/  
+**Mã nguồn:** https://github.com/monitor001/be-gau-an-toan
 
 ## Cảnh báo quan trọng
 

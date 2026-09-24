@@ -1,0 +1,2752 @@
+[
+  {
+    "id": "dao-pho-g1-l1-s1",
+    "lessonId": "dao-pho-g1-l1",
+    "gradeBand": "1",
+    "title": "Đường em tới trường",
+    "hazard": "đường có xe chạy gần lối đi bộ",
+    "prompt_vi": "Trên đường tới trường, Bé Gấu thấy lối đi bộ và một đoạn đường có xe đang chạy. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đường có xe chạy gần lối đi bộ. Story beat: Trên đường tới trường, Bé Gấu thấy lối đi bộ và một đoạn đường có xe đang chạy. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đường có xe chạy gần lối đi bộ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l1-s2",
+    "lessonId": "dao-pho-g1-l1",
+    "gradeBand": "1",
+    "title": "Đường em tới trường",
+    "hazard": "vỉa hè bị chặn bởi công trình",
+    "prompt_vi": "Em đang đi với người lớn, nhưng vỉa hè có một đoạn bị chắn bởi công trình đang sửa. Em làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: vỉa hè bị chặn bởi công trình. Story beat: Em đang đi với người lớn, nhưng vỉa hè có một đoạn bị chắn bởi công trình đang sửa. Em làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "vỉa hè bị chặn bởi công trình"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l1-s3",
+    "lessonId": "dao-pho-g1-l1",
+    "gradeBand": "1",
+    "title": "Đường em tới trường",
+    "hazard": "xe máy chạy ngoài lề vỉa hè",
+    "prompt_vi": "Bé Gấu và người lớn đang đi trên vỉa hè, một chiếc xe máy chạy nhanh sát vào lề. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe máy chạy ngoài lề vỉa hè. Story beat: Bé Gấu và người lớn đang đi trên vỉa hè, một chiếc xe máy chạy nhanh sát vào lề. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe máy chạy ngoài lề vỉa hè"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l1-s4",
+    "lessonId": "dao-pho-g1-l1",
+    "gradeBand": "1",
+    "title": "Đường em tới trường",
+    "hazard": "cửa hàng trên đường hút sự chú ý",
+    "prompt_vi": "Đi trên vỉa hè, Bé Gấu thấy một cửa hàng đang bán đồ chơi mới. Em muốn nhìn nhưng đang gần đường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: cửa hàng trên đường hút sự chú ý. Story beat: Đi trên vỉa hè, Bé Gấu thấy một cửa hàng đang bán đồ chơi mới. Em muốn nhìn nhưng đang gần đường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "cửa hàng trên đường hút sự chú ý"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l1-s5",
+    "lessonId": "dao-pho-g1-l1",
+    "gradeBand": "1",
+    "title": "Đường em tới trường",
+    "hazard": "đèn tín hiệu chưa cho phép qua",
+    "prompt_vi": "Bé Gấu và người lớn đang đứng ở lối qua đường, đèn cho người đi bộ vẫn còn đỏ. Đi bộ qua giờ này, Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đèn tín hiệu chưa cho phép qua. Story beat: Bé Gấu và người lớn đang đứng ở lối qua đường, đèn cho người đi bộ vẫn còn đỏ. Đi bộ qua giờ này, Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đèn tín hiệu chưa cho phép qua"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l2-s1",
+    "lessonId": "dao-pho-g1-l2",
+    "gradeBand": "1",
+    "title": "Đèn tín hiệu giao thông",
+    "hazard": "đèn đỏ dành cho người đi bộ",
+    "prompt_vi": "Đèn dành cho người đi bộ đang đỏ. Mẹ Gấu và Bé Gấu nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đèn đỏ dành cho người đi bộ. Story beat: Đèn dành cho người đi bộ đang đỏ. Mẹ Gấu và Bé Gấu nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đèn đỏ dành cho người đi bộ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l2-s2",
+    "lessonId": "dao-pho-g1-l2",
+    "gradeBand": "1",
+    "title": "Đèn tín hiệu giao thông",
+    "hazard": "đèn xanh nhưng xe vẫn chưa dừng",
+    "prompt_vi": "Đèn cho phép người đi bộ đã xanh, nhưng vài xe vẫn đang tới gần. Bé Gấu với người lớn làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đèn xanh nhưng xe vẫn chưa dừng. Story beat: Đèn cho phép người đi bộ đã xanh, nhưng vài xe vẫn đang tới gần. Bé Gấu với người lớn làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đèn xanh nhưng xe vẫn chưa dừng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l2-s3",
+    "lessonId": "dao-pho-g1-l2",
+    "gradeBand": "1",
+    "title": "Đèn tín hiệu giao thông",
+    "hazard": "đèn người đi bộ bị hỏng không bật",
+    "prompt_vi": "Bé Gấu và người lớn đến lối qua đường, nhưng đèn cho người đi bộ không sáng. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đèn người đi bộ bị hỏng không bật. Story beat: Bé Gấu và người lớn đến lối qua đường, nhưng đèn cho người đi bộ không sáng. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đèn người đi bộ bị hỏng không bật"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l2-s4",
+    "lessonId": "dao-pho-g1-l2",
+    "gradeBand": "1",
+    "title": "Đèn tín hiệu giao thông",
+    "hazard": "xe buýt đang dừng ở lối qua đường",
+    "prompt_vi": "Xe buýt đang dừng ở chỗ lối qua đường. Bé Gấu cùng người lớn làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe buýt đang dừng ở lối qua đường. Story beat: Xe buýt đang dừng ở chỗ lối qua đường. Bé Gấu cùng người lớn làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe buýt đang dừng ở lối qua đường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l2-s5",
+    "lessonId": "dao-pho-g1-l2",
+    "gradeBand": "1",
+    "title": "Đèn tín hiệu giao thông",
+    "hazard": "bạn cùng đợi nảy tính vượt đèn đỏ",
+    "prompt_vi": "Bé Gấu đang đợi đèn xanh với người lớn. Một bạn cùng lứa tuổi nảy tính chạy qua khi đèn còn đỏ. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: bạn cùng đợi nảy tính vượt đèn đỏ. Story beat: Bé Gấu đang đợi đèn xanh với người lớn. Một bạn cùng lứa tuổi nảy tính chạy qua khi đèn còn đỏ. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "bạn cùng đợi nảy tính vượt đèn đỏ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l3-s1",
+    "lessonId": "dao-pho-g1-l3",
+    "gradeBand": "1",
+    "title": "Đi bộ trên đường an toàn",
+    "hazard": "bạn gọi từ phía lòng đường",
+    "prompt_vi": "Bé Gấu đang đi với Mẹ Gấu nhưng nghe bạn gọi từ phía lòng đường. Bé Gấu nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: bạn gọi từ phía lòng đường. Story beat: Bé Gấu đang đi với Mẹ Gấu nhưng nghe bạn gọi từ phía lòng đường. Bé Gấu nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "bạn gọi từ phía lòng đường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l3-s2",
+    "lessonId": "dao-pho-g1-l3",
+    "gradeBand": "1",
+    "title": "Đi bộ trên đường an toàn",
+    "hazard": "đồ chơi rơi ra gần đường",
+    "prompt_vi": "Bé Gấu đang đi với người lớn, chiếc đồ chơi của em rơi xuống gần lòng đường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đồ chơi rơi ra gần đường. Story beat: Bé Gấu đang đi với người lớn, chiếc đồ chơi của em rơi xuống gần lòng đường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đồ chơi rơi ra gần đường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l3-s3",
+    "lessonId": "dao-pho-g1-l3",
+    "gradeBand": "1",
+    "title": "Đi bộ trên đường an toàn",
+    "hazard": "tai nghe khi đi bộ trên đường",
+    "prompt_vi": "Bé Gấu muốn nghe nhạc khi đi bộ cùng người lớn trên đường. Em làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: tai nghe khi đi bộ trên đường. Story beat: Bé Gấu muốn nghe nhạc khi đi bộ cùng người lớn trên đường. Em làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "tai nghe khi đi bộ trên đường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l3-s4",
+    "lessonId": "dao-pho-g1-l3",
+    "gradeBand": "1",
+    "title": "Đi bộ trên đường an toàn",
+    "hazard": "đoạn đường bị che khuất",
+    "prompt_vi": "Bé Gấu và người lớn đi đến một đoạn đường bị cây xanh che khuất tầm nhìn. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đoạn đường bị che khuất. Story beat: Bé Gấu và người lớn đi đến một đoạn đường bị cây xanh che khuất tầm nhìn. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đoạn đường bị che khuất"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l3-s5",
+    "lessonId": "dao-pho-g1-l3",
+    "gradeBand": "1",
+    "title": "Đi bộ trên đường an toàn",
+    "hazard": "lối đi bộ có chướng ngại vật",
+    "prompt_vi": "Trên lối đi bộ có một chiếc xe đạp đẩy ngang đường. Bé Gấu với người lớn làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: lối đi bộ có chướng ngại vật. Story beat: Trên lối đi bộ có một chiếc xe đạp đẩy ngang đường. Bé Gấu với người lớn làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "lối đi bộ có chướng ngại vật"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l4-s1",
+    "lessonId": "dao-pho-g1-l4",
+    "gradeBand": "1",
+    "title": "Ngồi an toàn trên các phương tiện giao thông",
+    "hazard": "xe đang di chuyển khi lên",
+    "prompt_vi": "Xe đưa đón đã đến. Khi nào Bé Gấu lên xe và ngồi như thế nào?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe đang di chuyển khi lên. Story beat: Xe đưa đón đã đến. Khi nào Bé Gấu lên xe và ngồi như thế nào? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe đang di chuyển khi lên"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l4-s2",
+    "lessonId": "dao-pho-g1-l4",
+    "gradeBand": "1",
+    "title": "Ngồi an toàn trên các phương tiện giao thông",
+    "hazard": "không có chỗ ngồi rõ ràng trong xe",
+    "prompt_vi": "Xe đưa đón đã dừng, nhưng bên trong không thấy chỗ ngồi rõ ràng cho Bé Gấu. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: không có chỗ ngồi rõ ràng trong xe. Story beat: Xe đưa đón đã dừng, nhưng bên trong không thấy chỗ ngồi rõ ràng cho Bé Gấu. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "không có chỗ ngồi rõ ràng trong xe"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l4-s3",
+    "lessonId": "dao-pho-g1-l4",
+    "gradeBand": "1",
+    "title": "Ngồi an toàn trên các phương tiện giao thông",
+    "hazard": "cổng xe đang mở khi xe chưa dừng",
+    "prompt_vi": "Bé Gấu muốn xuống xe nhưng cổng xe vẫn đang mở khi xe chưa hoàn toàn dừng. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: cổng xe đang mở khi xe chưa dừng. Story beat: Bé Gấu muốn xuống xe nhưng cổng xe vẫn đang mở khi xe chưa hoàn toàn dừng. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "cổng xe đang mở khi xe chưa dừng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l4-s4",
+    "lessonId": "dao-pho-g1-l4",
+    "gradeBand": "1",
+    "title": "Ngồi an toàn trên các phương tiện giao thông",
+    "hazard": "xe đang rẽ khi có Bé Gấu ngồi",
+    "prompt_vi": "Bé Gấu đang ngồi trong xe, xe đang rẽ góc. Bé Gấu làm gì để an toàn?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe đang rẽ khi có Bé Gấu ngồi. Story beat: Bé Gấu đang ngồi trong xe, xe đang rẽ góc. Bé Gấu làm gì để an toàn? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe đang rẽ khi có Bé Gấu ngồi"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l4-s5",
+    "lessonId": "dao-pho-g1-l4",
+    "gradeBand": "1",
+    "title": "Ngồi an toàn trên các phương tiện giao thông",
+    "hazard": "xe đang xuống dốc hoặc đường không bằng phẳng",
+    "prompt_vi": "Xe đưa đón đang đi xuống dốc, Bé Gấu cảm thấy có chút võng. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe đang xuống dốc hoặc đường không bằng phẳng. Story beat: Xe đưa đón đang đi xuống dốc, Bé Gấu cảm thấy có chút võng. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe đang xuống dốc hoặc đường không bằng phẳng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l5-s1",
+    "lessonId": "dao-pho-g1-l5",
+    "gradeBand": "1",
+    "title": "Nhớ đội mũ bảo hiểm",
+    "hazard": "chưa đội mũ bảo hiểm",
+    "prompt_vi": "Mẹ Gấu chuẩn bị chở Bé Gấu bằng xe máy. Bé Gấu và Mẹ Gấu cần làm gì trước khi xe chạy?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: chưa đội mũ bảo hiểm. Story beat: Mẹ Gấu chuẩn bị chở Bé Gấu bằng xe máy. Bé Gấu và Mẹ Gấu cần làm gì trước khi xe chạy? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "chưa đội mũ bảo hiểm"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l5-s2",
+    "lessonId": "dao-pho-g1-l5",
+    "gradeBand": "1",
+    "title": "Nhớ đội mũ bảo hiểm",
+    "hazard": "mũ bảo hiểm hơi quá lớn",
+    "prompt_vi": "Bé Gấu có một chiếc mũ bảo hiểm, nhưng khi đội lên hơi quá lớn, bị lệch xuống. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: mũ bảo hiểm hơi quá lớn. Story beat: Bé Gấu có một chiếc mũ bảo hiểm, nhưng khi đội lên hơi quá lớn, bị lệch xuống. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "mũ bảo hiểm hơi quá lớn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l5-s3",
+    "lessonId": "dao-pho-g1-l5",
+    "gradeBand": "1",
+    "title": "Nhớ đội mũ bảo hiểm",
+    "hazard": "quai mũ bị lệch và không chắc",
+    "prompt_vi": "Bé Gấu đội mũ bảo hiểm nhưng quai bị lệch một bên, không chặt. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: quai mũ bị lệch và không chắc. Story beat: Bé Gấu đội mũ bảo hiểm nhưng quai bị lệch một bên, không chặt. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "quai mũ bị lệch và không chắc"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l5-s4",
+    "lessonId": "dao-pho-g1-l5",
+    "gradeBand": "1",
+    "title": "Nhớ đội mũ bảo hiểm",
+    "hazard": "mũ bảo hiểm có dấu hiệu hư hỏng",
+    "prompt_vi": "Bé Gấu nhìn vào mũ bảo hiểm và thấy có vẻ nứt trên vỏ mũ. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: mũ bảo hiểm có dấu hiệu hư hỏng. Story beat: Bé Gấu nhìn vào mũ bảo hiểm và thấy có vẻ nứt trên vỏ mũ. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "mũ bảo hiểm có dấu hiệu hư hỏng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g1-l5-s5",
+    "lessonId": "dao-pho-g1-l5",
+    "gradeBand": "1",
+    "title": "Nhớ đội mũ bảo hiểm",
+    "hazard": "quên quai mũ khi rời khỏi nhà",
+    "prompt_vi": "Bé Gấu đội mũ bảo hiểm nhưng ra khỏi nhà rồi mới nhớ quên cài quai. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: quên quai mũ khi rời khỏi nhà. Story beat: Bé Gấu đội mũ bảo hiểm nhưng ra khỏi nhà rồi mới nhớ quên cài quai. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "quên quai mũ khi rời khỏi nhà"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l1-s1",
+    "lessonId": "dao-pho-g2-l1",
+    "gradeBand": "2",
+    "title": "Những nơi vui chơi an toàn",
+    "hazard": "Khu vực có xe đang ra vào",
+    "prompt_vi": "Bé Gấu muốn chơi bóng. Nơi nào phù hợp để chơi cùng bạn?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Khu vực có xe đang ra vào. Story beat: Bé Gấu muốn chơi bóng. Nơi nào phù hợp để chơi cùng bạn? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Khu vực có xe đang ra vào"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l1-s2",
+    "lessonId": "dao-pho-g2-l1",
+    "gradeBand": "2",
+    "title": "Những nơi vui chơi an toàn",
+    "hazard": "Bóng lăn ra ngoài lề đường",
+    "prompt_vi": "Bé Gấu và bạn chơi trong sân có rào. Bóng lăn ra phía đường có xe chạy. Hai bạn làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Bóng lăn ra ngoài lề đường. Story beat: Bé Gấu và bạn chơi trong sân có rào. Bóng lăn ra phía đường có xe chạy. Hai bạn làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Bóng lăn ra ngoài lề đường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l1-s3",
+    "lessonId": "dao-pho-g2-l1",
+    "gradeBand": "2",
+    "title": "Những nơi vui chơi an toàn",
+    "hazard": "Xe đang di chuyển quanh bãi đỗ xe",
+    "prompt_vi": "Bé Gấu muốn chơi với bạn ở bãi đỗ xe nhà. Xe đang vào ra. Bé Gấu chọn chỗ nào?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Xe đang di chuyển quanh bãi đỗ xe. Story beat: Bé Gấu muốn chơi với bạn ở bãi đỗ xe nhà. Xe đang vào ra. Bé Gấu chọn chỗ nào? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Xe đang di chuyển quanh bãi đỗ xe"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l1-s4",
+    "lessonId": "dao-pho-g2-l1",
+    "gradeBand": "2",
+    "title": "Những nơi vui chơi an toàn",
+    "hazard": "Không có người lớn ở gần",
+    "prompt_vi": "Bé Gấu đến khu vực có xe cộ chạy qua. Không có người lớn ngay đó. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Không có người lớn ở gần. Story beat: Bé Gấu đến khu vực có xe cộ chạy qua. Không có người lớn ngay đó. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Không có người lớn ở gần"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l1-s5",
+    "lessonId": "dao-pho-g2-l1",
+    "gradeBand": "2",
+    "title": "Những nơi vui chơi an toàn",
+    "hazard": "Lối đi bộ bị xe cản",
+    "prompt_vi": "Bé Gấu đến nơi dự định chơi, nhưng có xe đang đỗ chắn lối. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Lối đi bộ bị xe cản. Story beat: Bé Gấu đến nơi dự định chơi, nhưng có xe đang đỗ chắn lối. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Lối đi bộ bị xe cản"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l2-s1",
+    "lessonId": "dao-pho-g2-l2",
+    "gradeBand": "2",
+    "title": "Đi bộ qua đường an toàn",
+    "hazard": "Đi qua đường không dùng lối dành cho người đi bộ",
+    "prompt_vi": "Bé Gấu và mẹ cần sang đường ở nơi có vạch và đèn. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Đi qua đường không dùng lối dành cho người đi bộ. Story beat: Bé Gấu và mẹ cần sang đường ở nơi có vạch và đèn. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Đi qua đường không dùng lối dành cho người đi bộ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l2-s2",
+    "lessonId": "dao-pho-g2-l2",
+    "gradeBand": "2",
+    "title": "Đi bộ qua đường an toàn",
+    "hazard": "Đường này không có vạch sang đường",
+    "prompt_vi": "Bé Gấu cùng Mẹ Gấu đi qua một đường nhỏ không có vạch sang đường. Bé Gấu và Mẹ Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Đường này không có vạch sang đường. Story beat: Bé Gấu cùng Mẹ Gấu đi qua một đường nhỏ không có vạch sang đường. Bé Gấu và Mẹ Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Đường này không có vạch sang đường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l2-s3",
+    "lessonId": "dao-pho-g2-l2",
+    "gradeBand": "2",
+    "title": "Đi bộ qua đường an toàn",
+    "hazard": "Đèn cho người đi bộ đang đỏ",
+    "prompt_vi": "Bé Gấu và mẹ đến chỗ sang đường có đèn dành cho người đi bộ đang đỏ. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Đèn cho người đi bộ đang đỏ. Story beat: Bé Gấu và mẹ đến chỗ sang đường có đèn dành cho người đi bộ đang đỏ. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Đèn cho người đi bộ đang đỏ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l2-s4",
+    "lessonId": "dao-pho-g2-l2",
+    "gradeBand": "2",
+    "title": "Đi bộ qua đường an toàn",
+    "hazard": "Đường nhiều làn qua cầu người đi bộ",
+    "prompt_vi": "Bé Gấu cùng Mẹ Gấu cần sang đường có cầu đi bộ tầng trên. Bé Gấu chọn cách nào?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Đường nhiều làn qua cầu người đi bộ. Story beat: Bé Gấu cùng Mẹ Gấu cần sang đường có cầu đi bộ tầng trên. Bé Gấu chọn cách nào? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Đường nhiều làn qua cầu người đi bộ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l2-s5",
+    "lessonId": "dao-pho-g2-l2",
+    "gradeBand": "2",
+    "title": "Đi bộ qua đường an toàn",
+    "hazard": "Đi cùng người lớn với vật nhạy",
+    "prompt_vi": "Bé Gấu đang đi cùng Mẹ Gấu nhưng Mẹ Gấu đang đeo máy nghe điện. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Đi cùng người lớn với vật nhạy. Story beat: Bé Gấu đang đi cùng Mẹ Gấu nhưng Mẹ Gấu đang đeo máy nghe điện. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Đi cùng người lớn với vật nhạy"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l3-s1",
+    "lessonId": "dao-pho-g2-l3",
+    "gradeBand": "2",
+    "title": "Lên, xuống xe đạp, xe máy an toàn",
+    "hazard": "Xuất phát khi xe chưa dừng hoàn toàn",
+    "prompt_vi": "Mẹ dừng xe ở nơi an toàn để đón Bé Gấu. Khi nào Bé Gấu xuống xe?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Xuất phát khi xe chưa dừng hoàn toàn. Story beat: Mẹ dừng xe ở nơi an toàn để đón Bé Gấu. Khi nào Bé Gấu xuống xe? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Xuất phát khi xe chưa dừng hoàn toàn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l3-s2",
+    "lessonId": "dao-pho-g2-l3",
+    "gradeBand": "2",
+    "title": "Lên, xuống xe đạp, xe máy an toàn",
+    "hazard": "Xe máy dừng để đón Bé Gấu",
+    "prompt_vi": "Mẹ dừng xe máy để Bé Gấu lên xe. Bé Gấu làm gì để lên xe an toàn?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Xe máy dừng để đón Bé Gấu. Story beat: Mẹ dừng xe máy để Bé Gấu lên xe. Bé Gấu làm gì để lên xe an toàn? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Xe máy dừng để đón Bé Gấu"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l3-s3",
+    "lessonId": "dao-pho-g2-l3",
+    "gradeBand": "2",
+    "title": "Lên, xuống xe đạp, xe máy an toàn",
+    "hazard": "Xuất phát từ bãi đỗ xe",
+    "prompt_vi": "Bé Gấu cùng Mẹ Gấu ở bãi đỗ xe. Xe máy đang được khởi động. Bé Gấu làm gì khi mẹ nói chuyện?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Xuất phát từ bãi đỗ xe. Story beat: Bé Gấu cùng Mẹ Gấu ở bãi đỗ xe. Xe máy đang được khởi động. Bé Gấu làm gì khi mẹ nói chuyện? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Xuất phát từ bãi đỗ xe"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l3-s4",
+    "lessonId": "dao-pho-g2-l3",
+    "gradeBand": "2",
+    "title": "Lên, xuống xe đạp, xe máy an toàn",
+    "hazard": "Jerry xuống xe bên đường xe cộ",
+    "prompt_vi": "Mẹ muốn dừng xe máy để Bé Gấu xuống gần đường có xe chạy. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Jerry xuống xe bên đường xe cộ. Story beat: Mẹ muốn dừng xe máy để Bé Gấu xuống gần đường có xe chạy. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Jerry xuống xe bên đường xe cộ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l3-s5",
+    "lessonId": "dao-pho-g2-l3",
+    "gradeBand": "2",
+    "title": "Lên, xuống xe đạp, xe máy an toàn",
+    "hazard": "Đạp xe đạp khi có người đến gần",
+    "prompt_vi": "Bé Gấu và mẹ đến bãi đỗ xe đạp. Xe đạp đang đứng. Bé Gấu làm gì khi mẹ bảo nhau?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Đạp xe đạp khi có người đến gần. Story beat: Bé Gấu và mẹ đến bãi đỗ xe đạp. Xe đạp đang đứng. Bé Gấu làm gì khi mẹ bảo nhau? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Đạp xe đạp khi có người đến gần"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l4-s1",
+    "lessonId": "dao-pho-g2-l4",
+    "gradeBand": "2",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "Tự ý đoán ý nghĩa biển báo không rõ",
+    "prompt_vi": "Bé Gấu thấy một biển báo mới trên đường. Bé Gấu nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Tự ý đoán ý nghĩa biển báo không rõ. Story beat: Bé Gấu thấy một biển báo mới trên đường. Bé Gấu nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Tự ý đoán ý nghĩa biển báo không rõ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l4-s2",
+    "lessonId": "dao-pho-g2-l4",
+    "gradeBand": "2",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "Biển báo mới lạ",
+    "prompt_vi": "Bé Gấu thấy biển báo lạ trên đường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Biển báo mới lạ. Story beat: Bé Gấu thấy biển báo lạ trên đường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Biển báo mới lạ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l4-s3",
+    "lessonId": "dao-pho-g2-l4",
+    "gradeBand": "2",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "Biển báo con đường tạm thời",
+    "prompt_vi": "Bé Gấu thấy biển báo chỉ dẫn một phần đường tạm thời. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Biển báo con đường tạm thời. Story beat: Bé Gấu thấy biển báo chỉ dẫn một phần đường tạm thời. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Biển báo con đường tạm thời"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l4-s4",
+    "lessonId": "dao-pho-g2-l4",
+    "gradeBand": "2",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "Biển báo trẻ em gần trường",
+    "prompt_vi": "Bé Gấu thấy biển báo có hình trẻ em trước trường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Biển báo trẻ em gần trường. Story beat: Bé Gấu thấy biển báo có hình trẻ em trước trường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Biển báo trẻ em gần trường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l4-s5",
+    "lessonId": "dao-pho-g2-l4",
+    "gradeBand": "2",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "Biển báo giữa đường và đường phụ",
+    "prompt_vi": "Bé Gấu đến nơi có biển báo giữa đường chính và đường nhỏ. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Biển báo giữa đường và đường phụ. Story beat: Bé Gấu đến nơi có biển báo giữa đường chính và đường nhỏ. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Biển báo giữa đường và đường phụ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l5-s1",
+    "lessonId": "dao-pho-g2-l5",
+    "gradeBand": "2",
+    "title": "Chọn và đội mũ bảo hiểm đúng cách",
+    "hazard": "Mũ không vừa đầu hoặc chưa đạt chuẩn",
+    "prompt_vi": "Bé Gấu thử mũ trước chuyến xe máy. Mẹ nên kiểm tra điều gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Mũ không vừa đầu hoặc chưa đạt chuẩn. Story beat: Bé Gấu thử mũ trước chuyến xe máy. Mẹ nên kiểm tra điều gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Mũ không vừa đầu hoặc chưa đạt chuẩn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l5-s2",
+    "lessonId": "dao-pho-g2-l5",
+    "gradeBand": "2",
+    "title": "Chọn và đội mũ bảo hiểm đúng cách",
+    "hazard": "Mũ vừa đầu nhưng quai mỏng",
+    "prompt_vi": "Bé Gấu chọn mũ vừa đầu. Mẹ Gấu kiểm tra thấy quai mỏng. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Mũ vừa đầu nhưng quai mỏng. Story beat: Bé Gấu chọn mũ vừa đầu. Mẹ Gấu kiểm tra thấy quai mỏng. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Mũ vừa đầu nhưng quai mỏng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l5-s3",
+    "lessonId": "dao-pho-g2-l5",
+    "gradeBand": "2",
+    "title": "Chọn và đội mũ bảo hiểm đúng cách",
+    "hazard": "Mũ cũ chưa biết đạt chuẩn",
+    "prompt_vi": "Bé Gấu dùng mũ cũ của bạn. Mẹ không biết có đạt chuẩn không. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Mũ cũ chưa biết đạt chuẩn. Story beat: Bé Gấu dùng mũ cũ của bạn. Mẹ không biết có đạt chuẩn không. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Mũ cũ chưa biết đạt chuẩn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l5-s4",
+    "lessonId": "dao-pho-g2-l5",
+    "gradeBand": "2",
+    "title": "Chọn và đội mũ bảo hiểm đúng cách",
+    "hazard": "Mũ hơi rộng và rơi xuống mái tóc",
+    "prompt_vi": "Bé Gấu đội mũ nhưng mũ hơi rộng, dễ rơi xuống tóc khi di chuyển. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Mũ hơi rộng và rơi xuống mái tóc. Story beat: Bé Gấu đội mũ nhưng mũ hơi rộng, dễ rơi xuống tóc khi di chuyển. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Mũ hơi rộng và rơi xuống mái tóc"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g2-l5-s5",
+    "lessonId": "dao-pho-g2-l5",
+    "gradeBand": "2",
+    "title": "Chọn và đội mũ bảo hiểm đúng cách",
+    "hazard": "Mũ có vết nứt nhỏ trên vỏ",
+    "prompt_vi": "Bé Gấu thấy mũ bảo hiểm có vết nứt nhỏ trên vỏ bọc. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Mũ có vết nứt nhỏ trên vỏ. Story beat: Bé Gấu thấy mũ bảo hiểm có vết nứt nhỏ trên vỏ bọc. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Mũ có vết nứt nhỏ trên vỏ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l1-s1",
+    "lessonId": "dao-pho-g3-l1",
+    "gradeBand": "3",
+    "title": "Cổng trường an toàn giao thông",
+    "hazard": "đông xe tại cổng trường khi tan học",
+    "prompt_vi": "Tan học, cổng trường đông xe. Bé Gấu chờ người thân ở đâu?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đông xe tại cổng trường khi tan học. Story beat: Tan học, cổng trường đông xe. Bé Gấu chờ người thân ở đâu? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đông xe tại cổng trường khi tan học"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l1-s2",
+    "lessonId": "dao-pho-g3-l1",
+    "gradeBand": "3",
+    "title": "Cổng trường an toàn giao thông",
+    "hazard": "chạy ra giữa dòng xe để tìm người thân",
+    "prompt_vi": "Tan học, Bé Gấu không thấy mẹ ngay. Có nhiều xe đang đi ra vào cổng trường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: chạy ra giữa dòng xe để tìm người thân. Story beat: Tan học, Bé Gấu không thấy mẹ ngay. Có nhiều xe đang đi ra vào cổng trường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "chạy ra giữa dòng xe để tìm người thân"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l1-s3",
+    "lessonId": "dao-pho-g3-l1",
+    "gradeBand": "3",
+    "title": "Cổng trường an toàn giao thông",
+    "hazard": "tụ tập nhóm bạn ngay nơi xe ra vào",
+    "prompt_vi": "Bé Gấu và bạn cùng tan học, tụ tập trò chuyện ngay trước cổng nơi có nhiều xe đón học sinh. Hai bạn làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: tụ tập nhóm bạn ngay nơi xe ra vào. Story beat: Bé Gấu và bạn cùng tan học, tụ tập trò chuyện ngay trước cổng nơi có nhiều xe đón học sinh. Hai bạn làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "tụ tập nhóm bạn ngay nơi xe ra vào"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l1-s4",
+    "lessonId": "dao-pho-g3-l1",
+    "gradeBand": "3",
+    "title": "Cổng trường an toàn giao thông",
+    "hazard": "người thân đón bằng xe máy từ phía lối khác",
+    "prompt_vi": "Mẹ Bé Gấu đón bằng xe máy từ một lối khác cổng trường, Bé Gấu thấy mẹ nhưng đường giữa có xe đang đi. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: người thân đón bằng xe máy từ phía lối khác. Story beat: Mẹ Bé Gấu đón bằng xe máy từ một lối khác cổng trường, Bé Gấu thấy mẹ nhưng đường giữa có xe đang đi. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "người thân đón bằng xe máy từ phía lối khác"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l1-s5",
+    "lessonId": "dao-pho-g3-l1",
+    "gradeBand": "3",
+    "title": "Cổng trường an toàn giao thông",
+    "hazard": "xe buýt trường dừng ngay tại cổng",
+    "prompt_vi": "Xe buýt trường chờ học sinh đang dừng ở gần cổng, nhiều chân xe ra vào. Bé Gấu làm gì khi ra về?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe buýt trường dừng ngay tại cổng. Story beat: Xe buýt trường chờ học sinh đang dừng ở gần cổng, nhiều chân xe ra vào. Bé Gấu làm gì khi ra về? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe buýt trường dừng ngay tại cổng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l2-s1",
+    "lessonId": "dao-pho-g3-l2",
+    "gradeBand": "3",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "chưa hiểu ý nghĩa biển báo trước cổng trường",
+    "prompt_vi": "Biển báo trước cổng trường nhắc mọi người chú ý trẻ em. Bé Gấu nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: chưa hiểu ý nghĩa biển báo trước cổng trường. Story beat: Biển báo trước cổng trường nhắc mọi người chú ý trẻ em. Bé Gấu nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "chưa hiểu ý nghĩa biển báo trước cổng trường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l2-s2",
+    "lessonId": "dao-pho-g3-l2",
+    "gradeBand": "3",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "biển báo hình người đi bộ với đèn xanh",
+    "prompt_vi": "Bé Gấu thấy một biển báo mới có hình người đi bộ đang bật đèn xanh ở gần trường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: biển báo hình người đi bộ với đèn xanh. Story beat: Bé Gấu thấy một biển báo mới có hình người đi bộ đang bật đèn xanh ở gần trường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "biển báo hình người đi bộ với đèn xanh"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l2-s3",
+    "lessonId": "dao-pho-g3-l2",
+    "gradeBand": "3",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "biển báo giới hạn tốc độ 30 gần trường",
+    "prompt_vi": "Bé Gấu thấy biển báo có số 30 với hình đồng hồ gần trường. Bé Gấu làm gì với biển này?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: biển báo giới hạn tốc độ 30 gần trường. Story beat: Bé Gấu thấy biển báo có số 30 với hình đồng hồ gần trường. Bé Gấu làm gì với biển này? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "biển báo giới hạn tốc độ 30 gần trường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l2-s4",
+    "lessonId": "dao-pho-g3-l2",
+    "gradeBand": "3",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "biển báo cấm đỗ xe trước lối vào trường",
+    "prompt_vi": "Bé Gấu thấy biển báo cấm đỗ xe ngay trước lối vào trường. Bé Gấu hiểu thế nào?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: biển báo cấm đỗ xe trước lối vào trường. Story beat: Bé Gấu thấy biển báo cấm đỗ xe ngay trước lối vào trường. Bé Gấu hiểu thế nào? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "biển báo cấm đỗ xe trước lối vào trường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l2-s5",
+    "lessonId": "dao-pho-g3-l2",
+    "gradeBand": "3",
+    "title": "Biển báo hiệu giao thông đường bộ",
+    "hazard": "biển báo nguy hiểm ở chiều ngược",
+    "prompt_vi": "Bé Gấu đi cùng người lớn về chiều, thấy một biển báo màu vàng hình tam giác cảnh báo quanh trường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: biển báo nguy hiểm ở chiều ngược. Story beat: Bé Gấu đi cùng người lớn về chiều, thấy một biển báo màu vàng hình tam giác cảnh báo quanh trường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "biển báo nguy hiểm ở chiều ngược"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l3-s1",
+    "lessonId": "dao-pho-g3-l3",
+    "gradeBand": "3",
+    "title": "Đi bộ tại những nơi đường giao nhau",
+    "hazard": "chưa biết cách đợi an toàn ở nơi giao nhau",
+    "prompt_vi": "Bé Gấu và mẹ đến chỗ giao nhau với đường sắt. Rào chắn đang hạ. Bé Gấu và Mẹ Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: chưa biết cách đợi an toàn ở nơi giao nhau. Story beat: Bé Gấu và mẹ đến chỗ giao nhau với đường sắt. Rào chắn đang hạ. Bé Gấu và Mẹ Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "chưa biết cách đợi an toàn ở nơi giao nhau"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l3-s2",
+    "lessonId": "dao-pho-g3-l3",
+    "gradeBand": "3",
+    "title": "Đi bộ tại những nơi đường giao nhau",
+    "hazard": "đèn tín hiệu cho phép đi nhưng xe vẫn qua",
+    "prompt_vi": "Bé Gấu và mẹ đến lối sang có đèn, đèn cho phép đi đã sáng nhưng Bé Gấu và Mẹ Gấu thấy xe vẫn đang chạy qua. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đèn tín hiệu cho phép đi nhưng xe vẫn qua. Story beat: Bé Gấu và mẹ đến lối sang có đèn, đèn cho phép đi đã sáng nhưng Bé Gấu và Mẹ Gấu thấy xe vẫn đang chạy qua. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đèn tín hiệu cho phép đi nhưng xe vẫn qua"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l3-s3",
+    "lessonId": "dao-pho-g3-l3",
+    "gradeBand": "3",
+    "title": "Đi bộ tại những nơi đường giao nhau",
+    "hazard": "nơi giao nhau không có vạch sang đường",
+    "prompt_vi": "Bé Gấu cùng Mẹ Gấu đi đến một nơi giao nhau không có vạch hoặc đèn sang đường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: nơi giao nhau không có vạch sang đường. Story beat: Bé Gấu cùng Mẹ Gấu đi đến một nơi giao nhau không có vạch hoặc đèn sang đường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "nơi giao nhau không có vạch sang đường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l3-s4",
+    "lessonId": "dao-pho-g3-l3",
+    "gradeBand": "3",
+    "title": "Đi bộ tại những nơi đường giao nhau",
+    "hazard": "đèn xanh nhưng có xe rẽ phải",
+    "prompt_vi": "Bé Gấu và mẹ ở lối sang, đèn xanh cho phép đi nhưng có xe đang rẽ phải vào lối đó. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đèn xanh nhưng có xe rẽ phải. Story beat: Bé Gấu và mẹ ở lối sang, đèn xanh cho phép đi nhưng có xe đang rẽ phải vào lối đó. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đèn xanh nhưng có xe rẽ phải"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l3-s5",
+    "lessonId": "dao-pho-g3-l3",
+    "gradeBand": "3",
+    "title": "Đi bộ tại những nơi đường giao nhau",
+    "hazard": "lối qua đường có cầu đi bộ",
+    "prompt_vi": "Bé Gấu cùng Mẹ Gấu cần sang đường qua một cầu đi bộ ở nơi giao nhau đông. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: lối qua đường có cầu đi bộ. Story beat: Bé Gấu cùng Mẹ Gấu cần sang đường qua một cầu đi bộ ở nơi giao nhau đông. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "lối qua đường có cầu đi bộ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l4-s1",
+    "lessonId": "dao-pho-g3-l4",
+    "gradeBand": "3",
+    "title": "Tham gia giao thông an toàn trên các phương tiện giao thông công cộng",
+    "hazard": "xuất phát khi xe chưa dừng hoàn toàn",
+    "prompt_vi": "Trên xe buýt, bạn rủ Bé Gấu thò tay ra ngoài cửa sổ. Bé Gấu nên trả lời sao?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xuất phát khi xe chưa dừng hoàn toàn. Story beat: Trên xe buýt, bạn rủ Bé Gấu thò tay ra ngoài cửa sổ. Bé Gấu nên trả lời sao? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xuất phát khi xe chưa dừng hoàn toàn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l4-s2",
+    "lessonId": "dao-pho-g3-l4",
+    "gradeBand": "3",
+    "title": "Tham gia giao thông an toàn trên các phương tiện giao thông công cộng",
+    "hazard": "xe buýt rẽ góc thật nhanh sau khi lên",
+    "prompt_vi": "Bé Gấu vừa lên xe buýt cùng gia đình, xe bỗng rẽ góc thật nhanh. Bé Gấu làm gì để an toàn?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe buýt rẽ góc thật nhanh sau khi lên. Story beat: Bé Gấu vừa lên xe buýt cùng gia đình, xe bỗng rẽ góc thật nhanh. Bé Gấu làm gì để an toàn? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe buýt rẽ góc thật nhanh sau khi lên"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l4-s3",
+    "lessonId": "dao-pho-g3-l4",
+    "gradeBand": "3",
+    "title": "Tham gia giao thông an toàn trên các phương tiện giao thông công cộng",
+    "hazard": "người lớn trên xe buýt mời Bé Gấu ngồi ghế phụ",
+    "prompt_vi": "Trên xe buýt, một người lớn quen ở ghế trước mời Bé Gấu ngồi ghế phụ. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: người lớn trên xe buýt mời Bé Gấu ngồi ghế phụ. Story beat: Trên xe buýt, một người lớn quen ở ghế trước mời Bé Gấu ngồi ghế phụ. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "người lớn trên xe buýt mời Bé Gấu ngồi ghế phụ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l4-s4",
+    "lessonId": "dao-pho-g3-l4",
+    "gradeBand": "3",
+    "title": "Tham gia giao thông an toàn trên các phương tiện giao thông công cộng",
+    "hazard": "xe buýt đang dừng nhưng khóa an toàn vẫn mở khi xe chưa dừng hẳn",
+    "prompt_vi": "Bé Gấu cùng gia đình đứng đợi xe buýt, khóa an toàn vẫn mở khi xe chưa dừng hẳn. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe buýt đang dừng nhưng khóa an toàn vẫn mở khi xe chưa dừng hẳn. Story beat: Bé Gấu cùng gia đình đứng đợi xe buýt, khóa an toàn vẫn mở khi xe chưa dừng hẳn. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe buýt đang dừng nhưng khóa an toàn vẫn mở khi xe chưa dừng hẳn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l4-s5",
+    "lessonId": "dao-pho-g3-l4",
+    "gradeBand": "3",
+    "title": "Tham gia giao thông an toàn trên các phương tiện giao thông công cộng",
+    "hazard": "xe buýt sắp tới điểm dừng, bạn cùng gia đình muốn nhảy xuống trước",
+    "prompt_vi": "Trên xe buýt, bạn cùng gia đình muốn nhảy xuống trước khi xe dừng hoàn toàn để nhanh đến cổng trường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe buýt sắp tới điểm dừng, bạn cùng gia đình muốn nhảy xuống trước. Story beat: Trên xe buýt, bạn cùng gia đình muốn nhảy xuống trước khi xe dừng hoàn toàn để nhanh đến cổng trường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe buýt sắp tới điểm dừng, bạn cùng gia đình muốn nhảy xuống trước"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l5-s1",
+    "lessonId": "dao-pho-g3-l5",
+    "gradeBand": "3",
+    "title": "Làm quen với xe đạp",
+    "hazard": "chưa biết kiểm tra xe đạp với người lớn",
+    "prompt_vi": "Trước khi đạp xe ở nơi được người lớn cho phép, phanh có vẻ lỏng. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: chưa biết kiểm tra xe đạp với người lớn. Story beat: Trước khi đạp xe ở nơi được người lớn cho phép, phanh có vẻ lỏng. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "chưa biết kiểm tra xe đạp với người lớn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l5-s2",
+    "lessonId": "dao-pho-g3-l5",
+    "gradeBand": "3",
+    "title": "Làm quen với xe đạp",
+    "hazard": "lốp xe bị xẻ thủng nhỏ",
+    "prompt_vi": "Trước khi đạp xe cùng người lớn, Bé Gấu thấy lốp xe bị xẻ thủng nhỏ. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: lốp xe bị xẻ thủng nhỏ. Story beat: Trước khi đạp xe cùng người lớn, Bé Gấu thấy lốp xe bị xẻ thủng nhỏ. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "lốp xe bị xẻ thủng nhỏ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l5-s3",
+    "lessonId": "dao-pho-g3-l5",
+    "gradeBand": "3",
+    "title": "Làm quen với xe đạp",
+    "hazard": "dây xe bị lỏng, khả năng đứt",
+    "prompt_vi": "Bé Gấu kiểm tra xe với người lớn, thấy dây xe bị lỏng và có thể đứt khi đạp mạnh. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: dây xe bị lỏng, khả năng đứt. Story beat: Bé Gấu kiểm tra xe với người lớn, thấy dây xe bị lỏng và có thể đứt khi đạp mạnh. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "dây xe bị lỏng, khả năng đứt"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l5-s4",
+    "lessonId": "dao-pho-g3-l5",
+    "gradeBand": "3",
+    "title": "Làm quen với xe đạp",
+    "hazard": "xe có tiếng kêu lạ khi lái",
+    "prompt_vi": "Bé Gấu chuẩn bị đạp xe ở nơi được người lớn cho phép, nhưng nghe tiếng kêu lạ khi lái xe. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe có tiếng kêu lạ khi lái. Story beat: Bé Gấu chuẩn bị đạp xe ở nơi được người lớn cho phép, nhưng nghe tiếng kêu lạ khi lái xe. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe có tiếng kêu lạ khi lái"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g3-l5-s5",
+    "lessonId": "dao-pho-g3-l5",
+    "gradeBand": "3",
+    "title": "Làm quen với xe đạp",
+    "hazard": "ghế xe bị thấp quá, không vừa người",
+    "prompt_vi": "Bé Gấu ngồi lên xe đạp cùng người lớn, thấy ghế quá thấp khiến khó đạp. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: ghế xe bị thấp quá, không vừa người. Story beat: Bé Gấu ngồi lên xe đạp cùng người lớn, thấy ghế quá thấp khiến khó đạp. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "ghế xe bị thấp quá, không vừa người"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l1-s1",
+    "lessonId": "dao-pho-g4-l1",
+    "gradeBand": "4",
+    "title": "Điều khiển xe đạp an toàn",
+    "hazard": "phanh xe đạp không hoạt động tốt",
+    "prompt_vi": "Bé Gấu chuẩn bị đi xe nhưng phanh không ăn. Cách an toàn nhất là gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: phanh xe đạp không hoạt động tốt. Story beat: Bé Gấu chuẩn bị đi xe nhưng phanh không ăn. Cách an toàn nhất là gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "phanh xe đạp không hoạt động tốt"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l1-s2",
+    "lessonId": "dao-pho-g4-l1",
+    "gradeBand": "4",
+    "title": "Điều khiển xe đạp an toàn",
+    "hazard": "lốp xe quá cũ, bánh xe trơn",
+    "prompt_vi": "Bé Gấu định đi xe nhưng thấy hai lốp xe có vẻ cũ và trơn. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: lốp xe quá cũ, bánh xe trơn. Story beat: Bé Gấu định đi xe nhưng thấy hai lốp xe có vẻ cũ và trơn. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "lốp xe quá cũ, bánh xe trơn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l1-s3",
+    "lessonId": "dao-pho-g4-l1",
+    "gradeBand": "4",
+    "title": "Điều khiển xe đạp an toàn",
+    "hazard": "ghế ngồi cao quá, Bé Gấu chưa đến mức tựa bình thoải",
+    "prompt_vi": "Bé Gấu ngồi xe đạp, chân chạm đất nhưng ghế hơi cao, Bé Gấu không thể tựa đều. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: ghế ngồi cao quá, Bé Gấu chưa đến mức tựa bình thoải. Story beat: Bé Gấu ngồi xe đạp, chân chạm đất nhưng ghế hơi cao, Bé Gấu không thể tựa đều. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "ghế ngồi cao quá, Bé Gấu chưa đến mức tựa bình thoải"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l1-s4",
+    "lessonId": "dao-pho-g4-l1",
+    "gradeBand": "4",
+    "title": "Điều khiển xe đạp an toàn",
+    "hazard": "xe đạp có tiếng kêu lạ khi lái",
+    "prompt_vi": "Khi Bé Gấu đạp xe, xe phát ra tiếng kêu lạ từ khâu xích. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe đạp có tiếng kêu lạ khi lái. Story beat: Khi Bé Gấu đạp xe, xe phát ra tiếng kêu lạ từ khâu xích. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe đạp có tiếng kêu lạ khi lái"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l1-s5",
+    "lessonId": "dao-pho-g4-l1",
+    "gradeBand": "4",
+    "title": "Điều khiển xe đạp an toàn",
+    "hazard": "không có nơi được phép luyện xe ở gần nhà",
+    "prompt_vi": "Bé Gấu muốn luyện xe đạp nhưng quanh nhà không có nơi dành cho xe đạp. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: không có nơi được phép luyện xe ở gần nhà. Story beat: Bé Gấu muốn luyện xe đạp nhưng quanh nhà không có nơi dành cho xe đạp. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "không có nơi được phép luyện xe ở gần nhà"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l2-s1",
+    "lessonId": "dao-pho-g4-l2",
+    "gradeBand": "4",
+    "title": "Hiệu lệnh của người điều khiển giao thông",
+    "hazard": "đèn xanh nhưng người điều khiển ra hiệu dừng",
+    "prompt_vi": "Đèn đang xanh nhưng người điều khiển giao thông ra hiệu dừng. Bé Gấu đi cùng Mẹ Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: đèn xanh nhưng người điều khiển ra hiệu dừng. Story beat: Đèn đang xanh nhưng người điều khiển giao thông ra hiệu dừng. Bé Gấu đi cùng Mẹ Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "đèn xanh nhưng người điều khiển ra hiệu dừng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l2-s2",
+    "lessonId": "dao-pho-g4-l2",
+    "gradeBand": "4",
+    "title": "Hiệu lệnh của người điều khiển giao thông",
+    "hazard": "người điều khiển chỉ tay và ra hiệu khác đèn",
+    "prompt_vi": "Đèn đang xanh nhưng người điều khiển giao thông cầm tay chỉ tay và tạo hiệu lệnh khác. Bé Gấu đi cùng người lớn làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: người điều khiển chỉ tay và ra hiệu khác đèn. Story beat: Đèn đang xanh nhưng người điều khiển giao thông cầm tay chỉ tay và tạo hiệu lệnh khác. Bé Gấu đi cùng người lớn làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "người điều khiển chỉ tay và ra hiệu khác đèn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l2-s3",
+    "lessonId": "dao-pho-g4-l2",
+    "gradeBand": "4",
+    "title": "Hiệu lệnh của người điều khiển giao thông",
+    "hazard": "người điều khiển đang hướng dẫn một nhóm người",
+    "prompt_vi": "Người điều khiển giao thông đang hướng dẫn cho một nhóm người đi bộ. Bé Gấu với mẹ chưa biết họ đang làm gì. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: người điều khiển đang hướng dẫn một nhóm người. Story beat: Người điều khiển giao thông đang hướng dẫn cho một nhóm người đi bộ. Bé Gấu với mẹ chưa biết họ đang làm gì. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "người điều khiển đang hướng dẫn một nhóm người"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l2-s4",
+    "lessonId": "dao-pho-g4-l2",
+    "gradeBand": "4",
+    "title": "Hiệu lệnh của người điều khiển giao thông",
+    "hazard": "người điều khiển làm hiệu lệnh ngược với biển báo",
+    "prompt_vi": "Biển báo cho phép rẽ, nhưng người điều khiển giao thông lại ra hiệu dừng. Bé Gấu cùng người lớn làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: người điều khiển làm hiệu lệnh ngược với biển báo. Story beat: Biển báo cho phép rẽ, nhưng người điều khiển giao thông lại ra hiệu dừng. Bé Gấu cùng người lớn làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "người điều khiển làm hiệu lệnh ngược với biển báo"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l2-s5",
+    "lessonId": "dao-pho-g4-l2",
+    "gradeBand": "4",
+    "title": "Hiệu lệnh của người điều khiển giao thông",
+    "hazard": "bạn hiểu lầm hiệu lệnh khi đèn xanh",
+    "prompt_vi": "Bé Gấu thấy một bạn nhỏ tin rằng chỉ cần đèn xanh là được đi, dù người điều khiển đang ngừng. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: bạn hiểu lầm hiệu lệnh khi đèn xanh. Story beat: Bé Gấu thấy một bạn nhỏ tin rằng chỉ cần đèn xanh là được đi, dù người điều khiển đang ngừng. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "bạn hiểu lầm hiệu lệnh khi đèn xanh"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l3-s1",
+    "lessonId": "dao-pho-g4-l3",
+    "gradeBand": "4",
+    "title": "Hậu quả của tai nạn giao thông",
+    "hazard": "bạn nói tai nạn chỉ làm mọi người đến muộn",
+    "prompt_vi": "Bạn nói tai nạn giao thông “chỉ làm mọi người đến muộn”. Bé Gấu nên nhớ điều gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: bạn nói tai nạn chỉ làm mọi người đến muộn. Story beat: Bạn nói tai nạn giao thông “chỉ làm mọi người đến muộn”. Bé Gấu nên nhớ điều gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "bạn nói tai nạn chỉ làm mọi người đến muộn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l3-s2",
+    "lessonId": "dao-pho-g4-l3",
+    "gradeBand": "4",
+    "title": "Hậu quả của tai nạn giao thông",
+    "hazard": "tai nạn khiến người đi bộ bị thương và gia đình lo lắng",
+    "prompt_vi": "Bạn học nói tai nạn giao thông \"chỉ làm mọi người đến muộn\". Bé Gấu nhớ điều gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: tai nạn khiến người đi bộ bị thương và gia đình lo lắng. Story beat: Bạn học nói tai nạn giao thông \"chỉ làm mọi người đến muộn\". Bé Gấu nhớ điều gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "tai nạn khiến người đi bộ bị thương và gia đình lo lắng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l3-s3",
+    "lessonId": "dao-pho-g4-l3",
+    "gradeBand": "4",
+    "title": "Hậu quả của tai nạn giao thông",
+    "hazard": "tai nạn làm giao thông xung quanh bị tắc nghẽn",
+    "prompt_vi": "Một tai nạn nhỏ đã khiến giao thông xung quanh bị tắc và người lớn vội vã. Bé Gấu suy nghĩ thế nào?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: tai nạn làm giao thông xung quanh bị tắc nghẽn. Story beat: Một tai nạn nhỏ đã khiến giao thông xung quanh bị tắc và người lớn vội vã. Bé Gấu suy nghĩ thế nào? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "tai nạn làm giao thông xung quanh bị tắc nghẽn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l3-s4",
+    "lessonId": "dao-pho-g4-l3",
+    "gradeBand": "4",
+    "title": "Hậu quả của tai nạn giao thông",
+    "hazard": "bạn nghĩ chỉ cần chú ý là không cần tuân thủ",
+    "prompt_vi": "Bạn nói: \"Chỉ cần nhìn kỹ là được, không cần nghe người điều khiển.\" Bé Gấu trả lời sao?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: bạn nghĩ chỉ cần chú ý là không cần tuân thủ. Story beat: Bạn nói: \"Chỉ cần nhìn kỹ là được, không cần nghe người điều khiển.\" Bé Gấu trả lời sao? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "bạn nghĩ chỉ cần chú ý là không cần tuân thủ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l3-s5",
+    "lessonId": "dao-pho-g4-l3",
+    "gradeBand": "4",
+    "title": "Hậu quả của tai nạn giao thông",
+    "hazard": "người lớn bị tai nạn vì không giữ khoảng cách",
+    "prompt_vi": "Bé Gấu nghe người lớn trong gia đình kể về việc họ gần như bị tai nạn vì không giữ khoảng cách. Bé Gấu nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: người lớn bị tai nạn vì không giữ khoảng cách. Story beat: Bé Gấu nghe người lớn trong gia đình kể về việc họ gần như bị tai nạn vì không giữ khoảng cách. Bé Gấu nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "người lớn bị tai nạn vì không giữ khoảng cách"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l4-s1",
+    "lessonId": "dao-pho-g4-l4",
+    "gradeBand": "4",
+    "title": "Dự đoán để phòng tránh tai nạn giao thông đường bộ",
+    "hazard": "tầm nhìn bị che khuất ở lối qua đường",
+    "prompt_vi": "Xe tải đang che khuất góc nhìn ở lối qua đường. Bé Gấu đi cùng Mẹ Gấu nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: tầm nhìn bị che khuất ở lối qua đường. Story beat: Xe tải đang che khuất góc nhìn ở lối qua đường. Bé Gấu đi cùng Mẹ Gấu nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "tầm nhìn bị che khuất ở lối qua đường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l4-s2",
+    "lessonId": "dao-pho-g4-l4",
+    "gradeBand": "4",
+    "title": "Dự đoán để phòng tránh tai nạn giao thông đường bộ",
+    "hazard": "xe tải đỗ che khuất góc nhìn",
+    "prompt_vi": "Xe tải đang đỗ che khuất tầm nhìn nơi lối qua đường. Bé Gấu đi cùng người lớn nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe tải đỗ che khuất góc nhìn. Story beat: Xe tải đang đỗ che khuất tầm nhìn nơi lối qua đường. Bé Gấu đi cùng người lớn nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe tải đỗ che khuất góc nhìn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l4-s3",
+    "lessonId": "dao-pho-g4-l4",
+    "gradeBand": "4",
+    "title": "Dự đoán để phòng tránh tai nạn giao thông đường bộ",
+    "hazard": "cây xanh dài che khuất đường giao nhau",
+    "prompt_vi": "Bé Gấu và người lớn đến góc đường mà cây xanh che khuất tầm nhìn. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: cây xanh dài che khuất đường giao nhau. Story beat: Bé Gấu và người lớn đến góc đường mà cây xanh che khuất tầm nhìn. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "cây xanh dài che khuất đường giao nhau"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l4-s4",
+    "lessonId": "dao-pho-g4-l4",
+    "gradeBand": "4",
+    "title": "Dự đoán để phòng tránh tai nạn giao thông đường bộ",
+    "hazard": "tường nhà che khuất khi rẽ góc",
+    "prompt_vi": "Bé Gấu đi đến góc nơi tường nhà che mất tầm nhìn vào ngõ. Bé Gấu làm gì cùng người lớn?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: tường nhà che khuất khi rẽ góc. Story beat: Bé Gấu đi đến góc nơi tường nhà che mất tầm nhìn vào ngõ. Bé Gấu làm gì cùng người lớn? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "tường nhà che khuất khi rẽ góc"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l4-s5",
+    "lessonId": "dao-pho-g4-l4",
+    "gradeBand": "4",
+    "title": "Dự đoán để phòng tránh tai nạn giao thông đường bộ",
+    "hazard": "xe máy đang đỗ che khuất đường ở gần trường",
+    "prompt_vi": "Bé Gấu đến một nơi có xe máy đỗ che khuất đường giao nhau gần trường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: xe máy đang đỗ che khuất đường ở gần trường. Story beat: Bé Gấu đến một nơi có xe máy đỗ che khuất đường giao nhau gần trường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "xe máy đang đỗ che khuất đường ở gần trường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l5-s1",
+    "lessonId": "dao-pho-g4-l5",
+    "gradeBand": "4",
+    "title": "An toàn giao thông đường thủy",
+    "hazard": "sắp đi thuyền cùng gia đình",
+    "prompt_vi": "Bé Gấu sắp đi thuyền cùng gia đình. Trước khi thuyền rời bến, Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: sắp đi thuyền cùng gia đình. Story beat: Bé Gấu sắp đi thuyền cùng gia đình. Trước khi thuyền rời bến, Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "sắp đi thuyền cùng gia đình"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l5-s2",
+    "lessonId": "dao-pho-g4-l5",
+    "gradeBand": "4",
+    "title": "An toàn giao thông đường thủy",
+    "hazard": "áo phao chưa được cài đúng cách",
+    "prompt_vi": "Trước khi lên thuyền, Bé Gấu mặc áo phao nhưng chưa cài chin đúng cách. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: áo phao chưa được cài đúng cách. Story beat: Trước khi lên thuyền, Bé Gấu mặc áo phao nhưng chưa cài chin đúng cách. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "áo phao chưa được cài đúng cách"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l5-s3",
+    "lessonId": "dao-pho-g4-l5",
+    "gradeBand": "4",
+    "title": "An toàn giao thông đường thủy",
+    "hazard": "không có người lớn giám sát khi lên thuyền",
+    "prompt_vi": "Bé Gấu muốn lên thuyền nhưng người lớn chưa ở bên cạnh. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: không có người lớn giám sát khi lên thuyền. Story beat: Bé Gấu muốn lên thuyền nhưng người lớn chưa ở bên cạnh. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "không có người lớn giám sát khi lên thuyền"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l5-s4",
+    "lessonId": "dao-pho-g4-l5",
+    "gradeBand": "4",
+    "title": "An toàn giao thông đường thủy",
+    "hazard": "thuyền đã rời bến, Bé Gấu đứng dậy đi lại",
+    "prompt_vi": "Khi thuyền đang chạy, Bé Gấu muốn đứng dậy tìm chỗ ngồi khác. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: thuyền đã rời bến, Bé Gấu đứng dậy đi lại. Story beat: Khi thuyền đang chạy, Bé Gấu muốn đứng dậy tìm chỗ ngồi khác. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "thuyền đã rời bến, Bé Gấu đứng dậy đi lại"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g4-l5-s5",
+    "lessonId": "dao-pho-g4-l5",
+    "gradeBand": "4",
+    "title": "An toàn giao thông đường thủy",
+    "hazard": "bạn muốn đứng dậy và chơi đùa trên thuyền",
+    "prompt_vi": "Bạn trên thuyền muốn đứng dậy và chơi đùa khi thuyền vẫn đang chạy. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: bạn muốn đứng dậy và chơi đùa trên thuyền. Story beat: Bạn trên thuyền muốn đứng dậy và chơi đùa khi thuyền vẫn đang chạy. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "bạn muốn đứng dậy và chơi đùa trên thuyền"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l1-s1",
+    "lessonId": "dao-pho-g5-l1",
+    "gradeBand": "5",
+    "title": "Điều khiển xe đạp chuyển hướng an toàn",
+    "hazard": "Rẽ đột ngột không quan sát",
+    "prompt_vi": "Trong sa hình ở sân trường có người lớn hướng dẫn, Bé Gấu cần rẽ. Bé Gấu làm gì trước?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Rẽ đột ngột không quan sát. Story beat: Trong sa hình ở sân trường có người lớn hướng dẫn, Bé Gấu cần rẽ. Bé Gấu làm gì trước? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Rẽ đột ngột không quan sát"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l1-s2",
+    "lessonId": "dao-pho-g5-l1",
+    "gradeBand": "5",
+    "title": "Điều khiển xe đạp chuyển hướng an toàn",
+    "hazard": "Rẽ khi có xe đang tới",
+    "prompt_vi": "Bé Gấu đang luyện xe đạp ở nơi người lớn cho phép. Đến đoạn đường có xe đang đi, Bé Gấu muốn rẽ trái. Bé Gấu làm gì trước khi rẽ?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Rẽ khi có xe đang tới. Story beat: Bé Gấu đang luyện xe đạp ở nơi người lớn cho phép. Đến đoạn đường có xe đang đi, Bé Gấu muốn rẽ trái. Bé Gấu làm gì trước khi rẽ? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Rẽ khi có xe đang tới"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l1-s3",
+    "lessonId": "dao-pho-g5-l1",
+    "gradeBand": "5",
+    "title": "Điều khiển xe đạp chuyển hướng an toàn",
+    "hazard": "Chọn lối rẽ không rõ ràng",
+    "prompt_vi": "Trong bài tập, người lớn cho Bé Gấu chọn giữa hai lối: một lối có vạch kẻ đường rõ, một lối mờ và khó nhìn. Bé Gấu chọn lối nào an toàn hơn?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Chọn lối rẽ không rõ ràng. Story beat: Trong bài tập, người lớn cho Bé Gấu chọn giữa hai lối: một lối có vạch kẻ đường rõ, một lối mờ và khó nhìn. Bé Gấu chọn lối nào an toàn hơn? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Chọn lối rẽ không rõ ràng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l1-s4",
+    "lessonId": "dao-pho-g5-l1",
+    "gradeBand": "5",
+    "title": "Điều khiển xe đạp chuyển hướng an toàn",
+    "hazard": "Quên mất bước báo hiệu",
+    "prompt_vi": "Bé Gấu vừa học xong bài tập rẽ xe. Để làm đúng, Bé Gấu cần nhớ những bước nào theo thứ tự?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Quên mất bước báo hiệu. Story beat: Bé Gấu vừa học xong bài tập rẽ xe. Để làm đúng, Bé Gấu cần nhớ những bước nào theo thứ tự? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Quên mất bước báo hiệu"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l1-s5",
+    "lessonId": "dao-pho-g5-l1",
+    "gradeBand": "5",
+    "title": "Điều khiển xe đạp chuyển hướng an toàn",
+    "hazard": "Mất tập trung khi rẽ",
+    "prompt_vi": "Bé Gấu đang luyện rẽ và vừa bắt đầu nói chuyện với bạn bên cạnh. Bé Gấu nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Mất tập trung khi rẽ. Story beat: Bé Gấu đang luyện rẽ và vừa bắt đầu nói chuyện với bạn bên cạnh. Bé Gấu nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Mất tập trung khi rẽ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l2-s1",
+    "lessonId": "dao-pho-g5-l2",
+    "gradeBand": "5",
+    "title": "Phòng tránh tai nạn giao thông nơi tầm nhìn bị che khuất",
+    "hazard": "Bước ra từ sau xe đỗ",
+    "prompt_vi": "Một xe đỗ che khuất lối sang đường. Bé Gấu làm gì cùng người lớn?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Bước ra từ sau xe đỗ. Story beat: Một xe đỗ che khuất lối sang đường. Bé Gấu làm gì cùng người lớn? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Bước ra từ sau xe đỗ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l2-s2",
+    "lessonId": "dao-pho-g5-l2",
+    "gradeBand": "5",
+    "title": "Phòng tránh tai nạn giao thông nơi tầm nhìn bị che khuất",
+    "hazard": "Vượt qua sau xe tải đỗ",
+    "prompt_vi": "Xe tải đỗ che khuất góc đường. Bé Gấu muốn sang đường cùng người lớn. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Vượt qua sau xe tải đỗ. Story beat: Xe tải đỗ che khuất góc đường. Bé Gấu muốn sang đường cùng người lớn. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Vượt qua sau xe tải đỗ"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l2-s3",
+    "lessonId": "dao-pho-g5-l2",
+    "gradeBand": "5",
+    "title": "Phòng tránh tai nạn giao thông nơi tầm nhìn bị che khuất",
+    "hazard": "Che khuất từ cây xanh",
+    "prompt_vi": "Ngõ nhỏ có cây xanh che khuất tầm nhìn khi sang đường. Bé Gấu bước đến đó với người lớn. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Che khuất từ cây xanh. Story beat: Ngõ nhỏ có cây xanh che khuất tầm nhìn khi sang đường. Bé Gấu bước đến đó với người lớn. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Che khuất từ cây xanh"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l2-s4",
+    "lessonId": "dao-pho-g5-l2",
+    "gradeBand": "5",
+    "title": "Phòng tránh tai nạn giao thông nơi tầm nhìn bị che khuất",
+    "hazard": "Che khuất từ công trình/bẫy",
+    "prompt_vi": "Bé Gấu đi cùng người lớn qua phố nhỏ, có một công trình nhỏ che khuất lối qua đường. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Che khuất từ công trình/bẫy. Story beat: Bé Gấu đi cùng người lớn qua phố nhỏ, có một công trình nhỏ che khuất lối qua đường. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Che khuất từ công trình/bẫy"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l2-s5",
+    "lessonId": "dao-pho-g5-l2",
+    "gradeBand": "5",
+    "title": "Phòng tránh tai nạn giao thông nơi tầm nhìn bị che khuất",
+    "hazard": "Xe đang lùi đỗ che khuất",
+    "prompt_vi": "Xe tải đang lùi ra khỏi bãi đỗ, che khuất góc nhìn của Bé Gấu. Bé Gấu ở cùng Mẹ Gấu. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Xe đang lùi đỗ che khuất. Story beat: Xe tải đang lùi ra khỏi bãi đỗ, che khuất góc nhìn của Bé Gấu. Bé Gấu ở cùng Mẹ Gấu. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Xe đang lùi đỗ che khuất"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l3-s1",
+    "lessonId": "dao-pho-g5-l3",
+    "gradeBand": "5",
+    "title": "Tham gia giao thông đường hàng không an toàn",
+    "hazard": "Tự tách khỏi người lớn ở sân bay",
+    "prompt_vi": "Ở sân bay, Bé Gấu muốn chạy đi xem máy bay một mình. Bé Gấu nên làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Tự tách khỏi người lớn ở sân bay. Story beat: Ở sân bay, Bé Gấu muốn chạy đi xem máy bay một mình. Bé Gấu nên làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Tự tách khỏi người lớn ở sân bay"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l3-s2",
+    "lessonId": "dao-pho-g5-l3",
+    "gradeBand": "5",
+    "title": "Tham gia giao thông đường hàng không an toàn",
+    "hazard": "Xem máy bay gần cửa cất hành",
+    "prompt_vi": "Bé Gấu đang ở sân bay cùng bố/mẹ. Bé Gấu muốn tự đi gần cửa cất hành để xem máy bay cất cánh. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Xem máy bay gần cửa cất hành. Story beat: Bé Gấu đang ở sân bay cùng bố/mẹ. Bé Gấu muốn tự đi gần cửa cất hành để xem máy bay cất cánh. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Xem máy bay gần cửa cất hành"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l3-s3",
+    "lessonId": "dao-pho-g5-l3",
+    "gradeBand": "5",
+    "title": "Tham gia giao thông đường hàng không an toàn",
+    "hazard": "Đứng dậy khi máy bay cất/hạ cánh",
+    "prompt_vi": "Máy bay đang cất cánh, Bé Gấu muốn đứng dậy đi lại trong máy bay. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Đứng dậy khi máy bay cất/hạ cánh. Story beat: Máy bay đang cất cánh, Bé Gấu muốn đứng dậy đi lại trong máy bay. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Đứng dậy khi máy bay cất/hạ cánh"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l3-s4",
+    "lessonId": "dao-pho-g5-l3",
+    "gradeBand": "5",
+    "title": "Tham gia giao thông đường hàng không an toàn",
+    "hazard": "Rời chỗ khi có âm thanh bất thường",
+    "prompt_vi": "Bé Gấu nghe thấy một âm thanh gì đó trong máy bay. Bé Gấu lo ngại và muốn đi tìm bố/mẹ ngay. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Rời chỗ khi có âm thanh bất thường. Story beat: Bé Gấu nghe thấy một âm thanh gì đó trong máy bay. Bé Gấu lo ngại và muốn đi tìm bố/mẹ ngay. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Rời chỗ khi có âm thanh bất thường"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l3-s5",
+    "lessonId": "dao-pho-g5-l3",
+    "gradeBand": "5",
+    "title": "Tham gia giao thông đường hàng không an toàn",
+    "hazard": "Ra ngoài khi đáp xuống",
+    "prompt_vi": "Máy bay vừa hạ cánh, Bé Gấu muốn đi ra phía cửa sổ để xem đường băng. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Ra ngoài khi đáp xuống. Story beat: Máy bay vừa hạ cánh, Bé Gấu muốn đi ra phía cửa sổ để xem đường băng. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Ra ngoài khi đáp xuống"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l4-s1",
+    "lessonId": "dao-pho-g5-l4",
+    "gradeBand": "5",
+    "title": "Ứng xử khi gặp sự cố giao thông",
+    "hazard": "Tiến gần hiện trường sự cố",
+    "prompt_vi": "Bé Gấu nhìn thấy một va chạm giao thông từ xa khi đang ở cùng cô giáo. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Tiến gần hiện trường sự cố. Story beat: Bé Gấu nhìn thấy một va chạm giao thông từ xa khi đang ở cùng cô giáo. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Tiến gần hiện trường sự cố"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l4-s2",
+    "lessonId": "dao-pho-g5-l4",
+    "gradeBand": "5",
+    "title": "Ứng xử khi gặp sự cố giao thông",
+    "hazard": "Xem va chạm từ xa",
+    "prompt_vi": "Bé Gấu đang đi cùng cô giáo và thấy một va chạm xe từ xa. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Xem va chạm từ xa. Story beat: Bé Gấu đang đi cùng cô giáo và thấy một va chạm xe từ xa. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Xem va chạm từ xa"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l4-s3",
+    "lessonId": "dao-pho-g5-l4",
+    "gradeBand": "5",
+    "title": "Ứng xử khi gặp sự cố giao thông",
+    "hazard": "Tự vào hiện trường tai nạn",
+    "prompt_vi": "Bé Gấu thấy tai nạn giao thông gần cổng trường. Bé Gấu muốn chạy ra xem. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Tự vào hiện trường tai nạn. Story beat: Bé Gấu thấy tai nạn giao thông gần cổng trường. Bé Gấu muốn chạy ra xem. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Tự vào hiện trường tai nạn"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l4-s4",
+    "lessonId": "dao-pho-g5-l4",
+    "gradeBand": "5",
+    "title": "Ứng xử khi gặp sự cố giao thông",
+    "hazard": "Quay/chụp hình sự cố",
+    "prompt_vi": "Bé Gấu xem tai nạn giao thông từ xa. Bạn yêu cầu Bé Gấu quay video và đăng lên mạng. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Quay/chụp hình sự cố. Story beat: Bé Gấu xem tai nạn giao thông từ xa. Bạn yêu cầu Bé Gấu quay video và đăng lên mạng. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Quay/chụp hình sự cố"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l4-s5",
+    "lessonId": "dao-pho-g5-l4",
+    "gradeBand": "5",
+    "title": "Ứng xử khi gặp sự cố giao thông",
+    "hazard": "Cảnh báo sự cố đường sắt",
+    "prompt_vi": "Bé Gấu đang chờ xe buýt cùng người lớn, nghe thấy tiếng báo choking của đường sắt. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Cảnh báo sự cố đường sắt. Story beat: Bé Gấu đang chờ xe buýt cùng người lớn, nghe thấy tiếng báo choking của đường sắt. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Cảnh báo sự cố đường sắt"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l5-s1",
+    "lessonId": "dao-pho-g5-l5",
+    "gradeBand": "5",
+    "title": "Em làm tuyên truyền viên an toàn giao thông",
+    "hazard": "Tự điều tiết giao thông",
+    "prompt_vi": "Lớp Bé Gấu làm áp phích ATGT. Thông điệp nào phù hợp để chia sẻ?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Tự điều tiết giao thông. Story beat: Lớp Bé Gấu làm áp phích ATGT. Thông điệp nào phù hợp để chia sẻ? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Tự điều tiết giao thông"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l5-s2",
+    "lessonId": "dao-pho-g5-l5",
+    "gradeBand": "5",
+    "title": "Em làm tuyên truyền viên an toàn giao thông",
+    "hazard": "Tự đứng giữa đường nhắc xe",
+    "prompt_vi": "Lớp Bé Gấu làm dự án ATGT. Một bạn muốn đứng giữa đường để nhắc mọi người dừng. Bé Gấu nói gì với bạn?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Tự đứng giữa đường nhắc xe. Story beat: Lớp Bé Gấu làm dự án ATGT. Một bạn muốn đứng giữa đường để nhắc mọi người dừng. Bé Gấu nói gì với bạn? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Tự đứng giữa đường nhắc xe"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l5-s3",
+    "lessonId": "dao-pho-g5-l5",
+    "gradeBand": "5",
+    "title": "Em làm tuyên truyền viên an toàn giao thông",
+    "hazard": "Truyền thông không kiểm chứng",
+    "prompt_vi": "Bé Gấu muốn viết thông điệp cho lớp. Có một thông tin trên mạng chưa rõ nguồn gốc. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Truyền thông không kiểm chứng. Story beat: Bé Gấu muốn viết thông điệp cho lớp. Có một thông tin trên mạng chưa rõ nguồn gốc. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Truyền thông không kiểm chứng"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l5-s4",
+    "lessonId": "dao-pho-g5-l5",
+    "gradeBand": "5",
+    "title": "Em làm tuyên truyền viên an toàn giao thông",
+    "hazard": "Làm xấu hổ người khác",
+    "prompt_vi": "Bé Gấu thấy một bạn nào đó quên ghi nhớ luật an toàn. Bé Gấu muốn trưng dụng hình ảnh để răn đe. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Làm xấu hổ người khác. Story beat: Bé Gấu thấy một bạn nào đó quên ghi nhớ luật an toàn. Bé Gấu muốn trưng dụng hình ảnh để răn đe. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Làm xấu hổ người khác"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  },
+  {
+    "id": "dao-pho-g5-l5-s5",
+    "lessonId": "dao-pho-g5-l5",
+    "gradeBand": "5",
+    "title": "Em làm tuyên truyền viên an toàn giao thông",
+    "hazard": "Tổ chức chiến dịch không xin phép",
+    "prompt_vi": "Bé Gấu muốn tổ chức một chiến dịch ATGT nhỏ cho lớp. Mà chưa có sự cho phép của giáo viên. Bé Gấu làm gì?",
+    "image_prompt_en": "Highly realistic educational 3D cartoon illustration, 16:9, Vietnamese street safety for children. Cute brown bear cub child (Be Gau) and larger brown mother bear (Me Gau) always together. Clear recognizable real-world hazards: sidewalk, road, cars, traffic light, bus, motorcycle helmet. Warm daylight, no blood, no injury, no scary faces, no text labels, no watermarks. Scene: Tổ chức chiến dịch không xin phép. Story beat: Bé Gấu muốn tổ chức một chiến dịch ATGT nhỏ cho lớp. Mà chưa có sự cho phép của giáo viên. Bé Gấu làm gì? Show Be Gau and Me Gau choosing the safe behavior visually (holding hands / waiting / on sidewalk).",
+    "must_show": [
+      "bear cub Be Gau",
+      "mother bear Me Gau",
+      "Tổ chức chiến dịch không xin phép"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels",
+      "cat character",
+      "Mit cat"
+    ]
+  }
+]

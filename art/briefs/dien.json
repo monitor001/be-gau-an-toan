@@ -1,0 +1,2180 @@
+[
+  {
+    "id": "dien-g1-l1-s1",
+    "hazard": "chọc que vào lỗ ổ điện",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: chọc que vào lỗ ổ điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l1-s2",
+    "hazard": "tò mò nhìn sát ổ tường",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: tò mò nhìn sát ổ tường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l1-s3",
+    "hazard": "bạn rủ chọc ổ bằng bút",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn rủ chọc ổ bằng bút; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l1-s4",
+    "hazard": "muốn “thử” lỗ ổ còn trống",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: muốn “thử” lỗ ổ còn trống; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l1-s5",
+    "hazard": "ổ thấp ngang tầm trẻ",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: ổ thấp ngang tầm trẻ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l2-s1",
+    "hazard": "dây kéo dài nằm giữa sàn",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: dây kéo dài nằm giữa sàn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l2-s2",
+    "hazard": "dùng dây làm dây nhảy",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dùng dây làm dây nhảy; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l2-s3",
+    "hazard": "kéo dây quạt cho gần chỗ chơi",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: kéo dây quạt cho gần chỗ chơi; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l2-s4",
+    "hazard": "dây rối dưới chân",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: dây rối dưới chân; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; teacher or school adult nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l2-s5",
+    "hazard": "kéo đuôi dây đang cắm",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: kéo đuôi dây đang cắm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l3-s1",
+    "hazard": "tay ướt muốn bật quạt",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: tay ướt muốn bật quạt; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l3-s2",
+    "hazard": "tay ướt gần ổ cắm",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: tay ướt gần ổ cắm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l3-s3",
+    "hazard": "sau mưa muốn mở đèn",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: sau mưa muốn mở đèn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; mom nearby, light switch or desk lamp. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "light switch or desk lamp"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l3-s4",
+    "hazard": "uống nước gần máy tính đang cắm",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: uống nước gần máy tính đang cắm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l3-s5",
+    "hazard": "tay dính kem muốn bật đèn",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: tay dính kem muốn bật đèn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, light switch or desk lamp. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "light switch or desk lamp"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l4-s1",
+    "hazard": "tự rút sạc điện thoại",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: tự rút sạc điện thoại; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, phone or tablet charging near outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "phone or tablet charging near outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l4-s2",
+    "hazard": "tự bật tivi khi chưa được phép",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: tự bật tivi khi chưa được phép; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, phone or tablet charging near outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "phone or tablet charging near outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l4-s3",
+    "hazard": "muốn dùng máy xay một mình",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: muốn dùng máy xay một mình; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; mom nearby, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l4-s4",
+    "hazard": "muốn sạc máy tính bảng một mình",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: muốn sạc máy tính bảng một mình; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, phone or tablet charging near outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "phone or tablet charging near outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l4-s5",
+    "hazard": "muốn tắt đèn phòng một mình lúc tối",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: muốn tắt đèn phòng một mình lúc tối; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; dad nearby, light switch or desk lamp. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "light switch or desk lamp"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l5-s1",
+    "hazard": "dây bị sờn gần chân bàn",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: dây bị sờn gần chân bàn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l5-s2",
+    "hazard": "ổ điện nóng bất thường",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: ổ điện nóng bất thường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l5-s3",
+    "hazard": "nghe tiếng lạ từ ổ",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: nghe tiếng lạ từ ổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l5-s4",
+    "hazard": "phích cắm trông lệch",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: phích cắm trông lệch; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, standing electric fan. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "standing electric fan"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g1-l5-s5",
+    "hazard": "mùi lạ gần thiết bị điện",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: mùi lạ gần thiết bị điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l1-s1",
+    "hazard": "xe đồ chơi kẹt sau tivi đang cắm điện",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: xe đồ chơi kẹt sau tivi đang cắm điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, phone or tablet charging near outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "phone or tablet charging near outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l1-s2",
+    "hazard": "bóng bay vướng gần ổ tường",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: bóng bay vướng gần ổ tường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l1-s3",
+    "hazard": "viên bi lăn dưới ghế gần dây điện",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: viên bi lăn dưới ghế gần dây điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l1-s4",
+    "hazard": "gấu bông rơi lên ổ nhiều phích",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: gấu bông rơi lên ổ nhiều phích; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, power plug half in wall outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "power plug half in wall outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l1-s5",
+    "hazard": "đồ chơi kim loại gần lỗ ổ",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: đồ chơi kim loại gần lỗ ổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l2-s1",
+    "hazard": "điện thoại đang sạc rơi xuống chậu nước",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: điện thoại đang sạc rơi xuống chậu nước; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l2-s2",
+    "hazard": "máy tính bảng gần bồn rửa",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: máy tính bảng gần bồn rửa; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l2-s3",
+    "hazard": "đèn bàn gần cốc nước đổ",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: đèn bàn gần cốc nước đổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l2-s4",
+    "hazard": "sạc để gần thau nước mưa",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: sạc để gần thau nước mưa; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; mom nearby, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l2-s5",
+    "hazard": "bạn định vớt tai nghe trong chậu",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn định vớt tai nghe trong chậu; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l3-s1",
+    "hazard": "bạn rủ thử cắm đồ lạ vào ổ",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: bạn rủ thử cắm đồ lạ vào ổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, friend child also stays back, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l3-s2",
+    "hazard": "muốn tháo phích ra xem",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: muốn tháo phích ra xem; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, power plug half in wall outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "power plug half in wall outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l3-s3",
+    "hazard": "cắm nhiều phích vào một ổ",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: cắm nhiều phích vào một ổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, power plug half in wall outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "power plug half in wall outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l3-s4",
+    "hazard": "phích lỏng muốn tự ấn",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: phích lỏng muốn tự ấn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, standing electric fan. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "standing electric fan"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l3-s5",
+    "hazard": "đổi ổ cắm cho vui",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: đổi ổ cắm cho vui; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l4-s1",
+    "hazard": "kéo dây quạt cho gần giường",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: kéo dây quạt cho gần giường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l4-s2",
+    "hazard": "thò tay vào lưới quạt",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: thò tay vào lưới quạt; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, standing electric fan. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "standing electric fan"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l4-s3",
+    "hazard": "tự đổi bóng đèn",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: tự đổi bóng đèn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, light switch or desk lamp. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "light switch or desk lamp"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l4-s4",
+    "hazard": "muốn tự mở máy tính lớp",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: muốn tự mở máy tính lớp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; teacher or school adult nearby, classroom projector or computer cables. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "classroom projector or computer cables"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l4-s5",
+    "hazard": "dây sạc máy rối muốn tự gỡ",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: dây sạc máy rối muốn tự gỡ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l5-s1",
+    "hazard": "thấy dây trông đứt/hở",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: thấy dây trông đứt/hở; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l5-s2",
+    "hazard": "muốn chọc ổ bằng que",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: muốn chọc ổ bằng que; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, friend child also stays back, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l5-s3",
+    "hazard": "tay ướt gần công tắc",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: tay ướt gần công tắc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l5-s4",
+    "hazard": "muốn rút thiết bị khi chưa được phép",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: muốn rút thiết bị khi chưa được phép; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, phone or tablet charging near outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "phone or tablet charging near outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g2-l5-s5",
+    "hazard": "lấy dây điện làm đồ chơi",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: lấy dây điện làm đồ chơi; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l1-s1",
+    "hazard": "thước chọc ổ tường",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: thước chọc ổ tường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l1-s2",
+    "hazard": "bút chì gần lỗ ổ",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: bút chì gần lỗ ổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l1-s3",
+    "hazard": "bật tắt công tắc liên tục",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: bật tắt công tắc liên tục; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, light switch or desk lamp. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "light switch or desk lamp",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l1-s4",
+    "hazard": "kẹp tóc chọc ổ",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: kẹp tóc chọc ổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l1-s5",
+    "hazard": "tháo nắp ổ bằng tay",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: tháo nắp ổ bằng tay; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l2-s1",
+    "hazard": "tự rút phích máy chiếu",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: tự rút phích máy chiếu; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, classroom projector or computer cables. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "classroom projector or computer cables",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l2-s2",
+    "hazard": "tự bật quạt trần lớp",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: tự bật quạt trần lớp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, standing electric fan. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "standing electric fan",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l2-s3",
+    "hazard": "tự tắt loa đang dùng",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: tự tắt loa đang dùng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, classroom projector or computer cables. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "classroom projector or computer cables",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l2-s4",
+    "hazard": "cắm thêm phích chưa được phép",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: cắm thêm phích chưa được phép; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, standing electric fan. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "standing electric fan",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l2-s5",
+    "hazard": "di chuyển thiết bị đang cắm",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: di chuyển thiết bị đang cắm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, classroom projector or computer cables. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "classroom projector or computer cables",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l3-s1",
+    "hazard": "chạy đuổi gần tủ điện",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: chạy đuổi gần tủ điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l3-s2",
+    "hazard": "biển cảnh báo bị bỏ qua",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: biển cảnh báo bị bỏ qua; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; caring adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l3-s3",
+    "hazard": "cửa tủ điện hơi mở",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: cửa tủ điện hơi mở; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l3-s4",
+    "hazard": "ném bóng gần tủ điện",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: ném bóng gần tủ điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l3-s5",
+    "hazard": "trốn tìm sau tủ điện",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: trốn tìm sau tủ điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l4-s1",
+    "hazard": "dây sạc rối dưới chân",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: dây sạc rối dưới chân; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l4-s2",
+    "hazard": "chen chúc gần ổ nhiều thiết bị",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chen chúc gần ổ nhiều thiết bị; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; caring adult nearby, friend child also stays back, phone or tablet charging near outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "phone or tablet charging near outlet",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l4-s3",
+    "hazard": "đùa kéo dây chuột máy tính",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: đùa kéo dây chuột máy tính; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l4-s4",
+    "hazard": "nước uống gần ổ sạc",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: nước uống gần ổ sạc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, classroom projector or computer cables. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "classroom projector or computer cables",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l4-s5",
+    "hazard": "ngồi lên dây nối dài",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: ngồi lên dây nối dài; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; caring adult nearby, friend child also stays back, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l5-s1",
+    "hazard": "tiếng lép bép gần ổ",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: tiếng lép bép gần ổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l5-s2",
+    "hazard": "mùi khét từ góc thiết bị",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: mùi khét từ góc thiết bị; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, outlet looking odd, kids stepping farther back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "outlet looking odd"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l5-s3",
+    "hazard": "tia lửa nhỏ ở phích cắm",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: tia lửa nhỏ ở phích cắm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, standing electric fan. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "standing electric fan"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l5-s4",
+    "hazard": "đèn lớp nhấp nháy bất thường",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: đèn lớp nhấp nháy bất thường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; caring adult nearby, friend child also stays back, light switch or desk lamp. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "light switch or desk lamp",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g3-l5-s5",
+    "hazard": "ổ tường nóng bất thường",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: ổ tường nóng bất thường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l1-s1",
+    "hazard": "bóng bay vướng gần dây",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bóng bay vướng gần dây; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l1-s2",
+    "hazard": "chạy vòng quanh cột điện",
+    "prompt_vi": "Mít (mèo con) và bố mẹ gần đó; cảnh: chạy vòng quanh cột điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; parents nearby, friend child also stays back, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l1-s3",
+    "hazard": "ném bóng lên gần dây treo",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: ném bóng lên gần dây treo; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l1-s4",
+    "hazard": "diều giấy mắc gần cột",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: diều giấy mắc gần cột; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; friendly adult neighbor nearby, friend child also stays back, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l1-s5",
+    "hazard": "dây treo võng vào cột điện",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dây treo võng vào cột điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, friend child also stays back, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l2-s1",
+    "hazard": "ngập gần cột đèn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: ngập gần cột đèn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, light switch or desk lamp. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "light switch or desk lamp"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l2-s2",
+    "hazard": "gió lớn gần đường dây",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: gió lớn gần đường dây; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l2-s3",
+    "hazard": "mưa to gần trạm điện",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: mưa to gần trạm điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; dad nearby, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l2-s4",
+    "hazard": "bạn rủ đứng dưới mái gần dây",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn rủ đứng dưới mái gần dây; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, friend child also stays back, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l2-s5",
+    "hazard": "xe điện ngập nước trên đường",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: xe điện ngập nước trên đường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; friendly adult neighbor nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l3-s1",
+    "hazard": "dây nằm trên hè sau mưa",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dây nằm trên hè sau mưa; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l3-s2",
+    "hazard": "bạn định lại gần dây đứt",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: bạn định lại gần dây đứt; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l3-s3",
+    "hazard": "dây đứt có tia lửa",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: dây đứt có tia lửa; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; dad nearby, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l3-s4",
+    "hazard": "thú cưng chạy về phía dây",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: thú cưng chạy về phía dây; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l3-s5",
+    "hazard": "dây đứt chắn lối đi bộ",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dây đứt chắn lối đi bộ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; friendly adult neighbor nearby, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l4-s1",
+    "hazard": "cành đè lên dây ven đường",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: cành đè lên dây ven đường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l4-s2",
+    "hazard": "bạn rủ kéo cây đổ",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: bạn rủ kéo cây đổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; teacher or school adult nearby, friend child also stays back, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l4-s3",
+    "hazard": "lá ướt chạm dây thấp",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: lá ướt chạm dây thấp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; mom nearby, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l4-s4",
+    "hazard": "cây nghiêng gần trạm điện",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: cây nghiêng gần trạm điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l4-s5",
+    "hazard": "người lớn chưa biết hiện trường",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: người lớn chưa biết hiện trường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; dad nearby, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l5-s1",
+    "hazard": "nước mưa gần ổ thấp",
+    "prompt_vi": "Mít (mèo con) và bố mẹ gần đó; cảnh: nước mưa gần ổ thấp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; parents nearby, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l5-s2",
+    "hazard": "nghịch ổ khi mất điện",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: nghịch ổ khi mất điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, friend child also stays back, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l5-s3",
+    "hazard": "sạc điện thoại gần cửa sổ mưa",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: sạc điện thoại gần cửa sổ mưa; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; mom nearby, phone or tablet charging near outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "phone or tablet charging near outlet"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l5-s4",
+    "hazard": "chạy ra sân xem bão",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chạy ra sân xem bão; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g4-l5-s5",
+    "hazard": "quạt bị tạt mưa",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: quạt bị tạt mưa; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; dad nearby, standing electric fan. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "standing electric fan"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l1-s1",
+    "hazard": "thả diều gần đường dây ven đê",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: thả diều gần đường dây ven đê; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, friend child also stays back, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l1-s2",
+    "hazard": "dây diều vướng hướng đường điện",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dây diều vướng hướng đường điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l1-s3",
+    "hazard": "diều mắc lên dây điện",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: diều mắc lên dây điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; friendly adult neighbor nearby, friend child also stays back, tangled power cord on floor. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "tangled power cord on floor",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l1-s4",
+    "hazard": "dây điều bằng kim loại",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: dây điều bằng kim loại; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; teacher or school adult nearby, friend child also stays back, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l1-s5",
+    "hazard": "chọn chỗ thả diều đúng",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chọn chỗ thả diều đúng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l2-s1",
+    "hazard": "rủ trèo cột lấy bóng",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: rủ trèo cột lấy bóng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, friend child also stays back, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l2-s2",
+    "hazard": "leo cây có dây phía trên",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: leo cây có dây phía trên; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; teacher or school adult nearby, friend child also stays back, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l2-s3",
+    "hazard": "bạn đã leo lên cao",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: bạn đã leo lên cao; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; teacher or school adult nearby, friend child also stays back, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l2-s4",
+    "hazard": "thử thách nhóm trên mạng",
+    "prompt_vi": "Mít (mèo con) và bố mẹ gần đó; cảnh: thử thách nhóm trên mạng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; parents nearby, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l2-s5",
+    "hazard": "thang dựa gần dây",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: thang dựa gần dây; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l3-s1",
+    "hazard": "cổng trạm hơi mở",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: cổng trạm hơi mở; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; friendly adult neighbor nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l3-s2",
+    "hazard": "biển cấm bị bỏ qua",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: biển cấm bị bỏ qua; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l3-s3",
+    "hazard": "chui lỗ thủng hàng rào",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chui lỗ thủng hàng rào; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l3-s4",
+    "hazard": "ném đá lên mái trạm",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: ném đá lên mái trạm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l3-s5",
+    "hazard": "nghe tiếng lạ trong trạm",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: nghe tiếng lạ trong trạm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; caring adult nearby, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l4-s1",
+    "hazard": "dây đứt tóe lửa ngoài đường",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dây đứt tóe lửa ngoài đường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l4-s2",
+    "hazard": "xe tông cột điện",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: xe tông cột điện; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese street or yard, poles and wires only in far background; mom nearby, utility pole and overhead wires in far background. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "utility pole and overhead wires in far background"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l4-s3",
+    "hazard": "bạn livestream sát dây đứt",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn livestream sát dây đứt; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l4-s4",
+    "hazard": "hướng dẫn người đi đường",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: hướng dẫn người đi đường; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; friendly adult neighbor nearby, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l4-s5",
+    "hazard": "muốn “cắt điện” giúp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: muốn “cắt điện” giúp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; caring adult nearby, friend child also stays back, electrical cabinet or fence warning area from far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "electrical cabinet or fence warning area from far away",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l5-s1",
+    "hazard": "bạn chọc ổ bằng kẹp tóc",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: bạn chọc ổ bằng kẹp tóc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, wall power outlet at child eye level, stick or pen nearby unused. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wall power outlet at child eye level",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l5-s2",
+    "hazard": "bạn tay ướt định bật quạt",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn tay ướt định bật quạt; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; caring adult nearby, friend child also stays back, water near electrical item, wet hands held away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "water near electrical item",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l5-s3",
+    "hazard": "bạn kéo dây đứt trong sân",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: bạn kéo dây đứt trong sân; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, friend child also stays back, broken or frayed cord on ground, kids far away. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "broken or frayed cord on ground",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l5-s4",
+    "hazard": "chia sẻ thông điệp đúng",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: chia sẻ thông điệp đúng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese classroom or school hallway; teacher or school adult nearby, everyday electrical hazard kept at safe distance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "everyday electrical hazard kept at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "dien-g5-l5-s5",
+    "hazard": "bạn xấu hổ khi bị nhắc",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: bạn xấu hổ khi bị nhắc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. cozy Vietnamese tube-house living room; teacher or school adult nearby, friend child also stays back, phone or tablet charging near outlet. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "phone or tablet charging near outlet",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  }
+]

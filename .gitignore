@@ -1,0 +1,31 @@
+# Dependencies / caches
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+*.pem
+credentials*.json
+**/secrets/**
+
+# Piper local TTS (không cần cho bản web — đã có MP3; model ~63MB)
+models/piper/*.onnx
+models/piper/wav/
+models/piper/**/*.wav
+
+# Art pipeline temp / agent state (giữ briefs)
+art/_*.json
+art/briefs/_*.json
+art/briefs/gau-regen-batches/
+scripts/_tts-regen-keys.txt
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp

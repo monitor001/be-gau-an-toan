@@ -1,0 +1,202 @@
+[
+  {
+    "id": "nuoc-l1-s1",
+    "hazard": "tắm bồn một mình",
+    "prompt_vi": "Phòng tắm nhà Việt: bồn nước sẵn, Mít đứng ngoài nhìn bồn, mẹ/bố ở cửa phòng bên đang bận việc — chưa vào tắm cùng.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9 widescreen. Vietnamese home bathroom with ceramic bathtub partly filled with clean water. Mit, a cute friendly kitten child in simple clothes, stands outside the tub looking toward it with a thoughtful pause, not climbing in. An adult parent is visible through the open doorway in the next room, busy but nearby. Soft daylight, cozy house interior. No text labels on objects, no injury, no blood, no scary faces, no horror mood.",
+    "must_show": ["bathtub with water", "Mit kitten child outside tub", "adult nearby in next room"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child alone locked in bathroom"]
+  },
+  {
+    "id": "nuoc-l1-s2",
+    "hazard": "nắp chum nước mở",
+    "prompt_vi": "Sân nhà ống Việt Nam: chum đất lớn nắp đang mở, Mít đứng cách xa không cúi vào, người lớn đứng gần sẵn sàng đậy nắp.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Vietnamese house courtyard with a large traditional ceramic water jar (chum), lid resting open beside the rim. Mit the kitten child stands a safe step back, not leaning into the jar. A friendly adult stands nearby ready to close the lid. Soft sunny courtyard, potted plants, tiled floor. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["open water jar chum", "Mit kitten child stepping back", "adult nearby"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child leaning into jar"]
+  },
+  {
+    "id": "nuoc-l1-s3",
+    "hazard": "xô nước đầy trên sàn",
+    "prompt_vi": "Nhà tắm: xô nước đầy trên sàn, đồ chơi gần xô, Mít gọi mẹ từ xa, mẹ ở phía phòng khách.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Vietnamese bathroom floor with a full plastic water bucket and a toy near it. Mit the kitten child stands farther away, calling toward an adult parent visible in the living room beyond the doorway, not stepping close to the bucket. Clean bright interior. No text labels on objects, no injury, no blood, no scary faces, no spilled chaos.",
+    "must_show": ["full water bucket on floor", "toy near bucket", "Mit calling adult", "adult in living room"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child grabbing bucket"]
+  },
+  {
+    "id": "nuoc-l1-s4",
+    "hazard": "cửa nhà tắm / bể chứa chưa an toàn",
+    "prompt_vi": "Cửa nhà tắm mở, bể chứa nước không nắp trong nhà, Mít đứng chỗ khô báo bố đang làm việc gần đó.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Vietnamese home interior: open bathroom doorway and an uncovered household water cistern/tank indoors. Mit the kitten child stands on dry floor pointing and alerting father who works nearby, keeping distance from the open tank. Soft indoor light. No text labels on objects, no injury, no blood, no scary faces, no climbing on tank.",
+    "must_show": ["open bathroom door", "uncovered water cistern", "Mit on dry floor alerting adult", "father nearby"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child climbing tank"]
+  },
+  {
+    "id": "nuoc-l1-s5",
+    "hazard": "giếng hoặc bể cá trong sân",
+    "prompt_vi": "Sân: miệng giếng đã đậy và bể cá, Mít ở chỗ khô gọi cô trong bếp thay vì lại gần một mình.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Vietnamese courtyard with a covered well mouth and a small fish pond/tank. Mit the kitten child stays on dry paving, calling toward aunt/teacher figure visible in the kitchen doorway, not approaching the water alone. Friendly fish glimpsed, calm daylight. No text labels on objects, no injury, no blood, no scary faces, no open well lid.",
+    "must_show": ["covered well", "fish pond/tank", "Mit on dry ground calling adult", "adult in kitchen"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child at water edge alone"]
+  },
+  {
+    "id": "nuoc-l2-s1",
+    "hazard": "bạn rủ ra bờ ao không có người lớn",
+    "prompt_vi": "Đường làng gần ao: bạn chỉ về phía bờ ao, Mít lắc đầu ở chỗ khô an toàn, chưa có người lớn cùng.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Rural Vietnamese path near a green pond. A child friend points toward the pond bank invitingly. Mit the kitten child stays on the dry safe path, gently shaking head to refuse, no adult with them yet. Calm countryside, bamboo and houses far back. No text labels on objects, no injury, no blood, no scary faces, no falling into water.",
+    "must_show": ["pond bank in distance", "friend inviting", "Mit refusing on dry path"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "children at water edge"]
+  },
+  {
+    "id": "nuoc-l2-s2",
+    "hazard": "biển cảnh báo nước sâu",
+    "prompt_vi": "Gần hồ có biển cảnh báo hình học đỏ (không chữ), Mít và người lớn đứng xa chỗ an toàn.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Lakeside path with a red triangular warning signboard that has only simple hazard shapes and icons, absolutely no readable letters or words. Mit the kitten child and an adult stand far back on safe dry ground, adult gesturing to stay away from the lake edge. Peaceful park setting. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["warning sign with icons only no letters", "lake", "Mit and adult staying far back"],
+    "must_not": ["injury", "blood", "scary face", "readable text on signs", "child at water edge"]
+  },
+  {
+    "id": "nuoc-l2-s3",
+    "hazard": "bờ đất mềm dễ sạt",
+    "prompt_vi": "Bờ sông đất mềm trơn, Mít nắm tay chú đứng xa mép, chọn chỗ chơi khô.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Soft muddy riverbank looking slippery, gentle river beyond. Mit the kitten child holds an uncle's hand several steps back from the soft edge, choosing dry firm ground. Soft daylight, calm Vietnamese riverside. No text labels on objects, no injury, no blood, no scary faces, no collapsing bank drama.",
+    "must_show": ["soft muddy riverbank", "Mit holding adult hand", "standing far from edge"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child sitting at edge"]
+  },
+  {
+    "id": "nuoc-l2-s4",
+    "hazard": "kênh mương bẩn / nước đục",
+    "prompt_vi": "Đường về nhà: kênh nước đục, Mít và bà đi tiếp trên lối khô, không lội.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Vietnamese neighborhood path beside a murky canal. Mit the kitten child walks onward on the dry path hand-in-hand with grandmother, shoes on, not stepping into the cloudy water. Soft afternoon light. No text labels on objects, no injury, no blood, no scary faces, no garbage focus.",
+    "must_show": ["murky canal", "Mit and grandmother on dry path", "shoes on"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "wading in canal"]
+  },
+  {
+    "id": "nuoc-l2-s5",
+    "hazard": "chỗ chơi gần rào chắn nước",
+    "prompt_vi": "Hàng rào chắn gần hồ, phía trong là nước; Mít chơi ngoài rào chỗ khô và báo cô giáo gần đó.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Fence barrier beside a lake, water visible beyond the fence. Mit the kitten child plays outside the fence on dry playground ground and looks toward a nearby teacher adult to report, not climbing or squeezing through. Bright friendly park. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["fence barrier", "water beyond fence", "Mit outside on dry ground", "teacher nearby"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child climbing fence"]
+  },
+  {
+    "id": "nuoc-l3-s1",
+    "hazard": "xuống bể khi người lớn chưa giám sát",
+    "prompt_vi": "Bể bơi: Mít mặc đồ bơi đứng trên bờ chờ bố mẹ tới chỗ giám sát; bạn đã xuống nước; cứu hộ xa.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Community swimming pool. Mit the kitten child in a swimsuit stands on the dry deck waiting, looking for parents who are approaching but not yet at the poolside watch spot. A friend is already in shallow water. A distant lifeguard silhouette sits far away. Bright cheerful pool day. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["swimming pool", "Mit in swimsuit waiting on deck", "parents approaching", "friend in water"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "Mit entering water alone"]
+  },
+  {
+    "id": "nuoc-l3-s2",
+    "hazard": "chạy quanh thành bể ướt",
+    "prompt_vi": "Thành bể ướt bóng, Mít đi bộ chậm, cô đứng gần; bạn muốn chạy đua.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Wet shiny pool deck. Mit the kitten child walks slowly and carefully while a friend gestures as if wanting to race. A teacher adult stands nearby. Clear blue pool water, bright safe mood. No text labels on objects, no injury, no blood, no scary faces, no slipping fall.",
+    "must_show": ["wet pool deck", "Mit walking slowly", "friend wanting to run", "adult nearby"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "running or falling"]
+  },
+  {
+    "id": "nuoc-l3-s3",
+    "hazard": "đùa đẩy bạn xuống nước",
+    "prompt_vi": "Bể bơi: bạn muốn đẩy người khác xuống nước, Mít lắc đầu báo bố đứng gần, không đẩy.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Poolside scene. A child friend reaches as if about to playfully push another child toward the water. Mit the kitten child firmly shakes head no and turns to alert father standing nearby. Calm bright pool, everyone still on deck, no one falling in. No text labels on objects, no injury, no blood, no scary faces, no pushing impact.",
+    "must_show": ["poolside", "friend about to push", "Mit refusing and alerting dad", "father nearby"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child being pushed into water"]
+  },
+  {
+    "id": "nuoc-l3-s4",
+    "hazard": "vùng nước sâu / nội quy khu vực",
+    "prompt_vi": "Bể có khu nông và khu sâu (biển hình học không chữ), Mít ở khu nông với mẹ.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Swimming pool with a shallow play area and a deeper section marked by a colored depth marker board using only shapes and color bands, no readable letters or numbers. Mit the kitten child stays happily in the shallow area with mother. Bright friendly pool. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["shallow pool area", "deeper section marker icons only", "Mit with mother in shallow zone"],
+    "must_not": ["injury", "blood", "scary face", "readable text on signs", "child in deep end"]
+  },
+  {
+    "id": "nuoc-l3-s5",
+    "hazard": "hết giờ hoặc còi nội quy",
+    "prompt_vi": "Còi hết giờ: hướng dẫn viên gọi lên, Mít lên bờ đứng cạnh người lớn của mình.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Swimming pool end-of-session moment: instructor adult blowing a whistle and gesturing everyone out. Mit the kitten child climbs onto the deck and stands beside their own adult guardian. Bright orderly cheerful mood. No text labels on objects, no injury, no blood, no scary faces, no underwater hiding.",
+    "must_show": ["whistle instructor", "Mit exiting pool to deck", "adult guardian beside Mit"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child staying underwater"]
+  },
+  {
+    "id": "nuoc-l4-s1",
+    "hazard": "tháo áo phao trên đò vì nóng",
+    "prompt_vi": "Trên đò sông Việt: Mít giữ áo phao, nhờ bố chỉnh dây; bạn đã tháo áo vì nóng.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Small Vietnamese river ferry boat. Mit the kitten child keeps a bright life jacket fastened and asks father to adjust the straps for comfort. A friend has already removed their life jacket. Boatman adult nearby. Calm river daylight. No text labels on objects, no injury, no blood, no scary faces, no falling overboard.",
+    "must_show": ["river ferry boat", "Mit wearing life jacket", "father adjusting straps", "friend without jacket"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "Mit removing life jacket"]
+  },
+  {
+    "id": "nuoc-l4-s2",
+    "hazard": "biển có cờ / biển cấm tắm",
+    "prompt_vi": "Bãi biển: cờ cảnh báo và biển hình học cấm (không chữ), Mít ở khu được phép cạnh mẹ.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Vietnamese beach with a warning flag and a prohibition signboard using only red circle icon and simple shapes, no readable letters. Mit the kitten child stays with mother in the permitted dry sand area, not going toward the restricted surf zone. Friendly sunny beach. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["warning flag", "no-swim icon sign without letters", "Mit with mother in permitted area"],
+    "must_not": ["injury", "blood", "scary face", "readable text on signs", "child in restricted surf"]
+  },
+  {
+    "id": "nuoc-l4-s3",
+    "hazard": "sóng lớn / thời tiết xấu",
+    "prompt_vi": "Gió to sóng lớn, Mít đứng trên bờ khô hỏi bố, không xuống nước.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Windy beach with bigger choppy waves than usual but still non-scary stylized cartoon water. Mit the kitten child stands on dry sand beside father, looking up to ask him, not entering the water. Soft overcast but calm faces. No text labels on objects, no injury, no blood, no scary faces, no storm terror.",
+    "must_show": ["choppy waves", "Mit on dry shore with father", "not entering water"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child in large waves"]
+  },
+  {
+    "id": "nuoc-l4-s4",
+    "hazard": "chạy nhảy trên thuyền / đò",
+    "prompt_vi": "Đò đang chạy: Mít ngồi yên cạnh cô, bạn muốn đứng dậy chạy trên đò.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Moving Vietnamese passenger boat on a river. Mit the kitten child sits still beside a teacher adult. A friend stands as if wanting to run from bow to stern. Calm bright river trip. No text labels on objects, no injury, no blood, no scary faces, no climbing the gunwale.",
+    "must_show": ["moving ferry boat", "Mit seated beside adult", "friend wanting to run"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "Mit running on boat"]
+  },
+  {
+    "id": "nuoc-l4-s5",
+    "hazard": "áo phao chưa vừa hoặc chưa mặc trước khi lên đò",
+    "prompt_vi": "Bến đò: người lớn đưa áo phao hơi rộng, Mít mặc trước khi lên, nhờ chỉnh dây; đò chờ ở cầu.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Ferry pier before boarding. An adult holds out a slightly roomy life jacket. Mit the kitten child puts the jacket on first on the dock while the adult adjusts straps snugly; the boat waits at the pier. Friendly Vietnamese riverside. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["pier before boarding", "life jacket being fitted on Mit", "adult adjusting straps", "waiting boat"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "boarding without jacket"]
+  },
+  {
+    "id": "nuoc-l5-s1",
+    "hazard": "đường ngập sau mưa",
+    "prompt_vi": "Sau mưa đường trước nhà ngập, Mít ở trong nhà chỗ cao với bà, không lội chơi.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. After rain, flooded street water outside a Vietnamese townhouse. Mit the kitten child stays indoors on a raised dry spot with grandmother, looking out calmly, not wading. Soft post-rain light, cozy safe mood. No text labels on objects, no injury, no blood, no scary faces, no flood disaster panic.",
+    "must_show": ["flooded street outside", "Mit indoors with grandmother", "raised dry spot"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "children wading in flood"]
+  },
+  {
+    "id": "nuoc-l5-s2",
+    "hazard": "nước đục che khuất hố",
+    "prompt_vi": "Vũng nước đục gần cổng sau bão, Mít ở chỗ khô báo chú trong sân, không thọc chân.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. After a storm, a murky puddle near a house gate. Mit the kitten child stands on dry courtyard ground alerting an uncle nearby, not poking a foot into the cloudy water. Soft clearing sky. No text labels on objects, no injury, no blood, no scary faces, no hidden hole visible.",
+    "must_show": ["murky puddle near gate", "Mit on dry ground alerting adult", "uncle in courtyard"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child testing water with foot"]
+  },
+  {
+    "id": "nuoc-l5-s3",
+    "hazard": "thấy người gặp nạn dưới nước — gọi người lớn",
+    "prompt_vi": "Bờ sông: xa xa có người khó trong nước (không thương tích), Mít đứng trên bờ hô gọi người lớn gần đó.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Riverbank from a child's safe viewpoint. Far away in the water a person looks tired and needs help but shows no injury, no blood, no drowning horror. Mit the kitten child stays firmly on the dry bank calling loudly to nearby adults for help, not jumping in. Soft daylight, urgent but not scary. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["Mit on dry bank calling adults", "distant person needing help non-graphic", "adults nearby to respond"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child jumping into water"]
+  },
+  {
+    "id": "nuoc-l5-s4",
+    "hazard": "bạn rủ “cứu” bằng cách xuống nước",
+    "prompt_vi": "Bóng trôi gần bờ kênh, bạn rủ xuống lấy; Mít ở chỗ khô gọi cô gần cổng trường.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. School gate area beside a canal. A ball floats near the canal edge. A friend invites going down for it. Mit the kitten child stays on dry ground calling toward a teacher near the school gate, not entering the canal. Bright friendly schoolyard. No text labels on objects, no injury, no blood, no scary faces.",
+    "must_show": ["floating ball near canal", "friend inviting", "Mit on dry ground calling teacher", "teacher near gate"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child entering canal"]
+  },
+  {
+    "id": "nuoc-l5-s5",
+    "hazard": "lũ dâng / cần lên chỗ cao",
+    "prompt_vi": "Mưa lớn nước dâng gần sân, người lớn bảo lên chỗ cao; Mít ở trong nhà chỗ cao, không ra cổng xem.",
+    "image_prompt_en": "Warm 2D cartoon illustration, 16:9. Heavy rain, water rising near a Vietnamese house yard but kept gentle and non-terrifying. Adults guide the family upstairs or to a raised indoor platform. Mit the kitten child stays inside on the high safe spot with adults, not going to the gate to watch floodwater. Cozy determined calm mood. No text labels on objects, no injury, no blood, no scary faces, no disaster panic.",
+    "must_show": ["rising water near yard", "Mit indoors on high safe spot", "adults guiding family"],
+    "must_not": ["injury", "blood", "scary face", "text labels on props", "child at gate watching flood"]
+  }
+]

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#b8e6ee"/><stop offset="0.55" stop-color="#e5f3d9"/><stop offset="1" stop-color="#ffe6be"/>
+  </linearGradient></defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <rect x="0" y="352" width="512" height="96" fill="#626f70"/>
+  <g fill="#fffdf3"><rect x="60" y="366" width="42" height="72"/><rect x="150" y="366" width="42" height="72"/><rect x="240" y="366" width="42" height="72"/><rect x="330" y="366" width="42" height="72"/><rect x="420" y="366" width="42" height="72"/></g>
+  <!-- Adult -->
+  <g transform="translate(150 300)">
+    <circle cx="-36" cy="-78" r="18" fill="#c48a5a"/>
+    <circle cx="36" cy="-78" r="18" fill="#c48a5a"/>
+    <circle cx="0" cy="-58" r="52" fill="#d4a574"/>
+    <circle cx="-18" cy="-66" r="6" fill="#3c4a44"/><circle cx="18" cy="-66" r="6" fill="#3c4a44"/>
+    <path d="M-14-46 q14 12 28 0" stroke="#3c4a44" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <rect x="-44" y="-14" width="88" height="94" rx="30" fill="#f2c14e"/>
+  </g>
+  <!-- Child with bear cue on shirt -->
+  <g transform="translate(324 306)">
+    <circle cx="-30" cy="-66" r="15" fill="#e8a07a"/>
+    <circle cx="30" cy="-66" r="15" fill="#e8a07a"/>
+    <circle cx="0" cy="-44" r="42" fill="#f6bb95"/>
+    <circle cx="-15" cy="-52" r="5" fill="#3c4a44"/><circle cx="15" cy="-52" r="5" fill="#3c4a44"/>
+    <rect x="-34" y="-6" width="68" height="72" rx="24" fill="#7eb8e8"/>
+    <circle cx="0" cy="28" r="14" fill="#c48a5a"/>
+    <circle cx="-5" cy="26" r="2" fill="#3c4a44"/><circle cx="5" cy="26" r="2" fill="#3c4a44"/>
+  </g>
+</svg>

@@ -1,0 +1,1737 @@
+[
+  {
+    "id": "khac-chay-l1-s1",
+    "hazard": "nồi đang sôi trên bếp",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: nồi đang sôi trên bếp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; mom nearby, steaming pot on stove, handle visible, child far back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "steaming pot on stove"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l1-s2",
+    "hazard": "phích nước vừa đun",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: phích nước vừa đun; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; caring adult nearby, hot thermos on table with gentle steam. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "hot thermos on table with gentle steam"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l1-s3",
+    "hazard": "bếp vừa tắt nhưng vẫn nóng",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: bếp vừa tắt nhưng vẫn nóng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; mom nearby, cooktop still warm after cooking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cooktop still warm after cooking"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l1-s4",
+    "hazard": "cốc trà nóng trên bàn thấp",
+    "prompt_vi": "Mít (mèo con) và ông gần đó; cảnh: cốc trà nóng trên bàn thấp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese living room; grandpa nearby, hot tea cup on low table. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "hot tea cup on low table"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l1-s5",
+    "hazard": "mẹ đang chiên đồ ăn",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: mẹ đang chiên đồ ăn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; mom nearby, frying pan on stove, oil shimmer, child far back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "frying pan on stove"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l2-s1",
+    "hazard": "hộp diêm trên bàn thấp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: hộp diêm trên bàn thấp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese living room; caring adult nearby, matchbox on low table, untouched. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "matchbox on low table"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l2-s2",
+    "hazard": "bật lửa cạnh bếp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bật lửa cạnh bếp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; caring adult nearby, friend child also stays back, cooktop still warm after cooking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cooktop still warm after cooking",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l2-s3",
+    "hazard": "nến sinh nhật chưa được phép",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: nến sinh nhật chưa được phép; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese living room birthday table; caring adult nearby, friend child also stays back, matchbox on low table, untouched. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "matchbox on low table",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l2-s4",
+    "hazard": "tro nhang còn ấm",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: tro nhang còn ấm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home altar corner; caring adult nearby, home altar incense burner, child stands back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "home altar incense burner"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l2-s5",
+    "hazard": "bạn định “thử lửa” ngoài sân",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn định “thử lửa” ngoài sân; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. small Vietnamese home yard; caring adult nearby, friend child also stays back, matchbox on low table, untouched. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "matchbox on low table",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l3-s1",
+    "hazard": "ngửi thấy mùi khói nhẹ trong nhà",
+    "prompt_vi": "Mít (mèo con) và bà gần đó; cảnh: ngửi thấy mùi khói nhẹ trong nhà; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; grandma nearby, home altar incense burner, child stands back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "home altar incense burner"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l3-s2",
+    "hazard": "thấy khói mỏng ở hành lang",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: thấy khói mỏng ở hành lang; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; mom nearby, thin light smoke hint, calm family moving together. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "thin light smoke hint"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l3-s3",
+    "hazard": "muốn trốn dưới gầm giường khi có báo cháy",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: muốn trốn dưới gầm giường khi có báo cháy; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; dad nearby, friend child also stays back, home altar incense burner, child stands back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "home altar incense burner",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l3-s4",
+    "hazard": "cửa chính quen thuộc bị người lớn bảo không dùng",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: cửa chính quen thuộc bị người lớn bảo không dùng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; mom nearby, kitchen heat source, child stands safely back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen heat source"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l3-s5",
+    "hazard": "thấy khói và muốn “tự xử”",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: thấy khói và muốn “tự xử”; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; dad nearby, thin light smoke hint, calm family moving together. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "thin light smoke hint"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l4-s1",
+    "hazard": "muốn quay lại lấy đồ khi đã ra ngoài",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: muốn quay lại lấy đồ khi đã ra ngoài; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; caring adult nearby, home altar incense burner, child stands back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "home altar incense burner"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l4-s2",
+    "hazard": "tách khỏi điểm hẹn",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: tách khỏi điểm hẹn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; mom nearby, friend child also stays back, family at outdoor meeting spot under a tree. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "family at outdoor meeting spot under a tree",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l4-s3",
+    "hazard": "nhắc người lớn gọi 114",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: nhắc người lớn gọi 114; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; mom nearby, thin light smoke hint, calm family moving together. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "thin light smoke hint"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l4-s4",
+    "hazard": "thấy thú cưng còn trong nhà",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: thấy thú cưng còn trong nhà; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; caring adult nearby, home altar incense burner, child stands back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "home altar incense burner"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l4-s5",
+    "hazard": "gọi đùa số khẩn cấp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: gọi đùa số khẩn cấp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment hallway or courtyard exit; caring adult nearby, friend child also stays back, family at outdoor meeting spot under a tree. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "family at outdoor meeting spot under a tree",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l5-s1",
+    "hazard": "bê nồi canh nóng",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: bê nồi canh nóng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; mom nearby, steaming pot on stove, handle visible, child far back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "steaming pot on stove"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l5-s2",
+    "hazard": "mang đĩa đã nguội",
+    "prompt_vi": "Mít (mèo con) và bố gần đó; cảnh: mang đĩa đã nguội; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; dad nearby, child helping with cool dishes away from stove. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "child helping with cool dishes away from stove"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l5-s3",
+    "hazard": "lấy đồ trong lò vừa tắt",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: lấy đồ trong lò vừa tắt; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese living room birthday table; mom nearby, cooktop still warm after cooking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cooktop still warm after cooking"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l5-s4",
+    "hazard": "rót nước sôi pha mì",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: rót nước sôi pha mì; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; caring adult nearby, hot thermos on table with gentle steam. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "hot thermos on table with gentle steam"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-chay-l5-s5",
+    "hazard": "lau gần bếp đang nấu",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: lau gần bếp đang nấu; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen; mom nearby, cooktop still warm after cooking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cooktop still warm after cooking"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l1-s1",
+    "hazard": "muốn ngồi lên lan can ban công",
+    "prompt_vi": "Mít (mèo con) và mẹ gần đó; cảnh: muốn ngồi lên lan can ban công; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; mom nearby, balcony railing, child firmly inside room. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "balcony railing"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l1-s2",
+    "hazard": "đồ chơi rơi gần mép ban công",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: đồ chơi rơi gần mép ban công; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; caring adult nearby, balcony railing, child firmly inside room. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "balcony railing"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l1-s3",
+    "hazard": "bạn ngồi trên lan can",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn ngồi trên lan can; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; caring adult nearby, friend child also stays back, balcony railing, child firmly inside room. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "balcony railing",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l1-s4",
+    "hazard": "cửa ban công mở khi chơi một mình trong phòng",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: cửa ban công mở khi chơi một mình trong phòng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; caring adult nearby, balcony railing, child firmly inside room. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "balcony railing"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l1-s5",
+    "hazard": "chụp ảnh trên lan can",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chụp ảnh trên lan can; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; caring adult nearby, balcony railing, child firmly inside room. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "balcony railing"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l2-s1",
+    "hazard": "kê ghế sát cửa sổ để nhìn xuống",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: kê ghế sát cửa sổ để nhìn xuống; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese room with open window; caring adult nearby, open window, chair not pushed against it. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "open window"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l2-s2",
+    "hazard": "cửa sổ mở thấp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: cửa sổ mở thấp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese room with open window; caring adult nearby, open window, chair not pushed against it. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "open window"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l2-s3",
+    "hazard": "đồ chơi trên bệ cửa sổ",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: đồ chơi trên bệ cửa sổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese room with open window; caring adult nearby, open window, chair not pushed against it. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "open window"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l2-s4",
+    "hazard": "lưới cửa sổ trông yếu",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: lưới cửa sổ trông yếu; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese room with open window; caring adult nearby, open window, chair not pushed against it. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "open window"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l2-s5",
+    "hazard": "bạn đứng trên bàn gần cửa sổ",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn đứng trên bàn gần cửa sổ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese room with open window; caring adult nearby, friend child also stays back, open window, chair not pushed against it. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "open window",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l3-s1",
+    "hazard": "chạy xuống cầu thang",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chạy xuống cầu thang; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment stairwell; caring adult nearby, friend child also stays back, stairs with handrail, careful walking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "stairs with handrail",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l3-s2",
+    "hazard": "xô đẩy trên cầu thang",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: xô đẩy trên cầu thang; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment stairwell; caring adult nearby, friend child also stays back, stairs with handrail, careful walking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "stairs with handrail",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l3-s3",
+    "hazard": "em nhỏ chưa có người lớn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: em nhỏ chưa có người lớn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment stairwell; caring adult nearby, stairs with handrail, careful walking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "stairs with handrail"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l3-s4",
+    "hazard": "tay xách đồ che tầm nhìn trên thang",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: tay xách đồ che tầm nhìn trên thang; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment stairwell; caring adult nearby, stairs with handrail, careful walking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "stairs with handrail"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l3-s5",
+    "hazard": "trèo phía ngoài tay vịn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: trèo phía ngoài tay vịn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment stairwell; caring adult nearby, friend child also stays back, stairs with handrail, careful walking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "stairs with handrail",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l4-s1",
+    "hazard": "sàn nhà vừa lau còn ướt",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: sàn nhà vừa lau còn ướt; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home interior floor and hallway; caring adult nearby, wet shiny floor, child walking carefully. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wet shiny floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l4-s2",
+    "hazard": "nước đổ gần cầu thang",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: nước đổ gần cầu thang; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment stairwell; caring adult nearby, stairs with handrail, careful walking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "stairs with handrail"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l4-s3",
+    "hazard": "đồ chơi chắn lối đi",
+    "prompt_vi": "Mít (mèo con) và bà gần đó; cảnh: đồ chơi chắn lối đi; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home interior floor and hallway; grandma nearby, hallway clutter blocking path. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "hallway clutter blocking path"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l4-s4",
+    "hazard": "thảm bị nhăn trên sàn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: thảm bị nhăn trên sàn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home interior floor and hallway; caring adult nearby, wrinkled floor rug creating a bump. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wrinkled floor rug creating a bump"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l4-s5",
+    "hazard": "bạn chạy trong nhà khi sàn ướt",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn chạy trong nhà khi sàn ướt; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home interior floor and hallway; caring adult nearby, friend child also stays back, wet shiny floor, child walking carefully. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "wet shiny floor",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l5-s1",
+    "hazard": "muốn lên mái nhà chơi",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: muốn lên mái nhà chơi; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; caring adult nearby, friend child also stays back, closed door to roof or high ledge area. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "closed door to roof or high ledge area",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l5-s2",
+    "hazard": "lô gia không có người lớn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: lô gia không có người lớn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; caring adult nearby, friend child also stays back, balcony railing, child firmly inside room. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "balcony railing",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l5-s3",
+    "hazard": "giếng trời / khoảng trống giữa nhà",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: giếng trời / khoảng trống giữa nhà; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; caring adult nearby, friend child also stays back, closed door to roof or high ledge area. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "closed door to roof or high ledge area",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l5-s4",
+    "hazard": "sân thượng khi người lớn bận",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: sân thượng khi người lớn bận; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment with balcony or high opening; caring adult nearby, closed door to roof or high ledge area. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "closed door to roof or high ledge area"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-nga-l5-s5",
+    "hazard": "chọn chỗ chơi trong nhà được phép",
+    "prompt_vi": "Mít (mèo con) và bà gần đó; cảnh: chọn chỗ chơi trong nhà được phép; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese apartment stairwell; grandma nearby, stairs with handrail, careful walking. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "stairs with handrail"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l1-s1",
+    "hazard": "chai trong suốt trên bàn bếp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chai trong suốt trên bàn bếp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l1-s2",
+    "hazard": "chai nước rửa cạnh ly nước",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chai nước rửa cạnh ly nước; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l1-s3",
+    "hazard": "chai không nhãn trong tủ dưới bếp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chai không nhãn trong tủ dưới bếp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l1-s4",
+    "hazard": "bạn bảo “thử một chút”",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn bảo “thử một chút”; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, friend child also stays back, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l1-s5",
+    "hazard": "chai đẹp trên kệ thấp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chai đẹp trên kệ thấp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l2-s1",
+    "hazard": "tủ thuốc mở sẵn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: tủ thuốc mở sẵn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese bedroom or medicine cabinet area; caring adult nearby, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l2-s2",
+    "hazard": "thuốc để trên bàn ngủ",
+    "prompt_vi": "Mít (mèo con) và bà gần đó; cảnh: thuốc để trên bàn ngủ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese bedroom or medicine cabinet area; grandma nearby, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l2-s3",
+    "hazard": "em bé khóc, muốn “cho thuốc”",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: em bé khóc, muốn “cho thuốc”; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese bedroom or medicine cabinet area; caring adult nearby, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l2-s4",
+    "hazard": "chìa khóa tủ thuốc",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chìa khóa tủ thuốc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese bedroom or medicine cabinet area; caring adult nearby, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l2-s5",
+    "hazard": "bạn bảo lấy thuốc giảm đau",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn bảo lấy thuốc giảm đau; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese bedroom or medicine cabinet area; caring adult nearby, friend child also stays back, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l3-s1",
+    "hazard": "viên thuốc màu hồng trên bàn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: viên thuốc màu hồng trên bàn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l3-s2",
+    "hazard": "kẹo vitamin của người lớn",
+    "prompt_vi": "Mít (mèo con) và ông gần đó; cảnh: kẹo vitamin của người lớn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; grandpa nearby, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l3-s3",
+    "hazard": "vỏ vỉ thuốc trống và viên rơi",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: vỏ vỉ thuốc trống và viên rơi; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l3-s4",
+    "hazard": "bạn khoe “kẹo nhà mình”",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn khoe “kẹo nhà mình”; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, friend child also stays back, small colored pill on table looking candy-like, not eaten. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "small colored pill on table looking candy-like",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l3-s5",
+    "hazard": "nhầm hộp kẹo và hộp thuốc",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: nhầm hộp kẹo và hộp thuốc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l4-s1",
+    "hazard": "bạn sắp uống nước lau sàn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn sắp uống nước lau sàn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, friend child also stays back, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l4-s2",
+    "hazard": "thách nếm thuốc",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: thách nếm thuốc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, friend child also stays back, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l4-s3",
+    "hazard": "bạn mở chai tẩy trong nhà vệ sinh",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn mở chai tẩy trong nhà vệ sinh; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home bathroom; caring adult nearby, friend child also stays back, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l4-s4",
+    "hazard": "em nhỏ với ống kem đánh răng lớn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: em nhỏ với ống kem đánh răng lớn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, friend child also stays back, toothpaste tube, toddler nearby. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "toothpaste tube",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l4-s5",
+    "hazard": "bạn giấu chai hóa chất trong cặp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn giấu chai hóa chất trong cặp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, friend child also stays back, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l5-s1",
+    "hazard": "nghi mình uống nhầm",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: nghi mình uống nhầm; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, child calmly telling adult about a suspicious bottle. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "child calmly telling adult about a suspicious bottle"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l5-s2",
+    "hazard": "bạn nói đã nuốt viên thuốc lạ",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn nói đã nuốt viên thuốc lạ; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, friend child also stays back, medicine cabinet or pill blister, adult-only. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "medicine cabinet or pill blister",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l5-s3",
+    "hazard": "nghe mẹo dân gian trên mạng",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: nghe mẹo dân gian trên mạng; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, cleaning bottle on counter, clearly not a drink. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "cleaning bottle on counter"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l5-s4",
+    "hazard": "chai nghi ngờ và số 115",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chai nghi ngờ và số 115; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, child calmly telling adult about a suspicious bottle. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "child calmly telling adult about a suspicious bottle"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-thuoc-l5-s5",
+    "hazard": "sau khi đã báo người lớn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: sau khi đã báo người lớn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese kitchen counter with bottles; caring adult nearby, child calmly telling adult about a suspicious bottle. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "child calmly telling adult about a suspicious bottle"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l1-s1",
+    "hazard": "dao trên bàn bếp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dao trên bàn bếp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l1-s2",
+    "hazard": "kéo lớn trong ngăn kéo mở",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: kéo lớn trong ngăn kéo mở; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, scissors on table, not held as play. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "scissors on table"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l1-s3",
+    "hazard": "dao ở giá thấp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dao ở giá thấp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l1-s4",
+    "hazard": "bạn với dao đồ chơi kim loại",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn với dao đồ chơi kim loại; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l1-s5",
+    "hazard": "thớt và dao vừa dùng xong",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: thớt và dao vừa dùng xong; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l2-s1",
+    "hazard": "kéo thủ công trên bàn học",
+    "prompt_vi": "Mít (mèo con) và cô/thầy gần đó; cảnh: kéo thủ công trên bàn học; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese study desk or classroom craft table; teacher or school adult nearby, child scissors at desk with adult guidance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "child scissors at desk with adult guidance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l2-s2",
+    "hazard": "chạy cầm kéo",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: chạy cầm kéo; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, scissors on table, not held as play. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "scissors on table",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l2-s3",
+    "hazard": "kéo không được giao",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: kéo không được giao; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese study desk or classroom craft table; caring adult nearby, child scissors at desk with adult guidance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "child scissors at desk with adult guidance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l2-s4",
+    "hazard": "trả kéo khi xong",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: trả kéo khi xong; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, scissors on table, not held as play. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "scissors on table",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l2-s5",
+    "hazard": "tranh giành kéo",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: tranh giành kéo; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, scissors on table, not held as play. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "scissors on table",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l3-s1",
+    "hazard": "muốn cắt rau giúp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: muốn cắt rau giúp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l3-s2",
+    "hazard": "việc không sắc được giao",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: việc không sắc được giao; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l3-s3",
+    "hazard": "người lớn ra ngoài một lúc",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: người lớn ra ngoài một lúc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, sharp tool on table, child does not touch. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "sharp tool on table"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l3-s4",
+    "hazard": "bào / dụng cụ sắc khác",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bào / dụng cụ sắc khác; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, kitchen grater on counter untouched. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen grater on counter untouched",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l3-s5",
+    "hazard": "rửa dao giúp",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: rửa dao giúp; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l4-s1",
+    "hazard": "dao dưới sàn",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dao dưới sàn; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, small knife on floor, child calling adult. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "small knife on floor"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l4-s2",
+    "hazard": "kéo trong hộp đồ chơi",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: kéo trong hộp đồ chơi; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, scissors found in toy box. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "scissors found in toy box"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l4-s3",
+    "hazard": "dao trong túi picnic",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: dao trong túi picnic; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. picnic bag in Vietnamese living room; caring adult nearby, closed folding knife in picnic bag. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "closed folding knife in picnic bag"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l4-s4",
+    "hazard": "kéo trên ghế sofa",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: kéo trên ghế sofa; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese living room sofa; caring adult nearby, scissors left on sofa near toddler. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "scissors left on sofa near toddler"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l4-s5",
+    "hazard": "bạn giấu dao “cho vui”",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn giấu dao “cho vui”; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l5-s1",
+    "hazard": "trò đùa “kiếm” bằng dao",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: trò đùa “kiếm” bằng dao; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l5-s2",
+    "hazard": "thách cắt giấy trên tay",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: thách cắt giấy trên tay; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese study desk or classroom craft table; caring adult nearby, friend child also stays back, child scissors at desk with adult guidance. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "child scissors at desk with adult guidance",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l5-s3",
+    "hazard": "đùa đưa kéo cho nhau",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: đùa đưa kéo cho nhau; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, scissors on table, not held as play. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "scissors on table",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l5-s4",
+    "hazard": "clip mạng làm đồ sắc",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: clip mạng làm đồ sắc; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, kitchen knife on cutting board, child stays back. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "kitchen knife on cutting board",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  },
+  {
+    "id": "khac-sac-l5-s5",
+    "hazard": "bạn giận và cầm kéo",
+    "prompt_vi": "Mít (mèo con) và người lớn gần đó; cảnh: bạn giận và cầm kéo; Mít đứng xa, bình tĩnh, nhìn người lớn nhờ giúp, không chạm.",
+    "image_prompt_en": "Warm 2D cartoon 16:9, cute orange cat child Mit + caring adult, Vietnamese setting, soft friendly mood, no injury blood scary faces text labels. Vietnamese home kitchen counter; caring adult nearby, friend child also stays back, scissors on table, not held as play. Mit stays back, calm face, seeks adult help; nobody touches hazard.",
+    "must_show": [
+      "Mit cat child",
+      "adult nearby",
+      "scissors on table",
+      "another child at safe distance"
+    ],
+    "must_not": [
+      "injury",
+      "blood",
+      "scary face",
+      "text labels on props"
+    ]
+  }
+]

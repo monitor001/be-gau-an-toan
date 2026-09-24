@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#fff8e9" />
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+  <title>Bé Gấu An Toàn — Giáo dục an toàn</title>
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#cover" aria-label="Bé Gấu An Toàn, trang bìa">
+        <span class="brand-mark" aria-hidden="true">🐻</span>
+        <span><strong>Bé Gấu</strong><small>AN TOÀN</small></span>
+      </a>
+      <div class="topbar-tools">
+        <button id="soundToggle" class="sound-toggle" type="button" aria-pressed="true" aria-label="Bật hoặc tắt âm thanh">
+          <span class="sound-icon" aria-hidden="true">🔊</span><span id="soundToggleLabel" class="sound-label">Âm thanh: bật</span>
+        </button>
+        <div class="safety-badge"><span aria-hidden="true">🤝</span> Chơi cùng người lớn nhé!</div>
+      </div>
+    </header>
+
+    <section id="coverPanel" class="welcome-panel" aria-labelledby="coverTitle">
+      <div class="welcome-copy">
+        <p class="eyebrow">AN TOÀN SINH HOẠT · MẦM NON · TIỂU HỌC</p>
+        <h1 id="coverTitle" tabindex="-1">Cùng Bé Gấu<br /><span>học an toàn<br />mỗi ngày!</span></h1>
+        <p id="coverIntro" class="welcome-text">Có lộ trình mầm non (3–6) và tiểu học. Chọn module, chọn bài, xử lý 5 tình huống mỗi bài. Bé Gấu luôn đi cùng người lớn.</p>
+        <ul class="cover-facts" aria-label="Tóm tắt khóa học">
+          <li><strong id="coverFactsModules">12</strong><span>module</span></li>
+          <li><strong id="coverFactsLessons">100</strong><span>bài học</span></li>
+          <li><strong id="coverFactsSituations">500</strong><span>tình huống</span></li>
+        </ul>
+        <div class="cover-howto">
+          <strong>Cách học (3 bước)</strong>
+          <ol>
+            <li><strong>Chọn module</strong> — nước, điện, cháy–bếp, dạo phố…</li>
+            <li><strong>Chọn bài</strong> — mỗi bài 5 tình huống.</li>
+            <li><strong>Chọn đáp án</strong> — chạm để nghe → bấm “Chọn đáp án” → nghe đúng/sai rồi khuyến nghị → nếu đúng bấm “Tình huống kế tiếp”.</li>
+          </ol>
+        </div>
+        <p class="cover-safety"><span aria-hidden="true">🔊</span> Giọng đọc ưu tiên file tiếng Việt (Piper). Nếu chưa có file, dùng giọng <strong>vi-VN</strong> của trình duyệt.</p>
+        <p class="cover-safety"><span aria-hidden="true">⚠️</span> Prototype bổ trợ — <strong>chưa</strong> được chuyên gia/giáo viên duyệt; không thay giám sát thật; không thu dữ liệu cá nhân.</p>
+        <button id="startCourseButton" class="button button-primary" type="button">Bắt đầu học <span aria-hidden="true">→</span></button>
+      </div>
+      <div class="welcome-illustration" aria-hidden="true">
+        <div class="sun"></div><div class="cloud cloud-one"></div><div class="cloud cloud-two"></div>
+        <div class="house house-back"><i></i></div><div class="house house-front"><i></i></div>
+        <div class="bush bush-one"></div><div class="bush bush-two"></div>
+        <div class="path-ribbon"></div>
+        <div class="bear-figure mom-bear"><span class="bear-ear left"></span><span class="bear-ear right"></span><span class="bear-face">● ●</span><span class="bear-body"></span><span class="bear-leg left"></span><span class="bear-leg right"></span><span class="bear-arm reach-right"></span></div>
+        <div class="bear-figure kid-bear"><span class="bear-ear left"></span><span class="bear-ear right"></span><span class="bear-face">● ●</span><span class="bear-body"></span><span class="bear-leg left"></span><span class="bear-leg right"></span><span class="bear-arm reach-left"></span><span class="school-bag">★</span></div>
+        <div class="flower flower-a">✿</div><div class="flower flower-b">✿</div><div class="sparkle sparkle-a">✦</div><div class="sparkle sparkle-b">✦</div>
+      </div>
+    </section>
+
+    <section id="modulePanel" class="hub-panel" hidden aria-labelledby="hubTitle">
+      <button id="backToCoverButton" class="button button-quiet back-button" type="button">← Bìa khóa học</button>
+      <div class="hub-heading">
+        <div>
+          <p class="eyebrow" id="hubEyebrow">LỘ TRÌNH MẦM NON · ƯU TIÊN 3–6 TUỔI</p>
+          <h1 id="hubTitle" tabindex="-1">Chọn module</h1>
+          <p class="hub-intro">Chọn lộ trình phù hợp độ tuổi. Mỗi bài có 5 tình huống chọn đáp án an toàn.</p>
+          <div class="track-switch" role="group" aria-label="Chọn lộ trình">
+            <button type="button" class="track-btn is-active" data-track-btn="mam-non" aria-pressed="true">Mầm non 3–6</button>
+            <button type="button" class="track-btn" data-track-btn="tieu-hoc" aria-pressed="false">Tiểu học 1–5</button>
+            <button type="button" class="track-btn" data-track-btn="all" aria-pressed="false">Tất cả</button>
+          </div>
+        </div>
+        <div class="series-score" aria-live="polite"><strong id="curriculumProgress">0 / 75</strong><span>bài đã học</span></div>
+      </div>
+      <div class="series-progress-track" aria-hidden="true"><span id="curriculumProgressFill"></span></div>
+      <div id="moduleGrid" class="grade-grid" aria-label="Chọn một module an toàn"></div>
+    </section>
+
+    <section id="lessonPanel" class="hub-panel lesson-panel" hidden aria-labelledby="lessonPageTitle">
+      <button id="backToModules" class="button button-quiet back-button" type="button">← Danh sách module</button>
+      <div class="hub-heading lesson-heading">
+        <div>
+          <p class="eyebrow" id="lessonPageEyebrow">MODULE · BÀI HỌC</p>
+          <h1 id="lessonPageTitle" tabindex="-1">Chọn bài</h1>
+          <p id="lessonPageDescription" class="hub-intro"></p>
+        </div>
+        <div class="series-score" aria-live="polite"><strong id="gradeLessonProgress">0 / 5</strong><span>bài đã học</span></div>
+      </div>
+      <div id="lessonGrid" class="lesson-grid" aria-label="Các bài học của module"></div>
+    </section>
+
+    <section id="gamePanel" class="game-panel" hidden aria-labelledby="sceneTitle">
+      <div class="journey-bar">
+        <div class="journey-label"><span class="journey-dot"></span><span id="activityLabel">HÀNH TRÌNH CỦA BÉ GẤU</span></div>
+        <div class="journey-progress"><span id="sceneProgress">1 / 5</span><span class="stars" id="stars">☆ ☆ ☆ ☆ ☆</span><button id="exitActivityButton" class="exit-button" type="button">← Danh sách bài</button></div>
+      </div>
+      <div class="progress-track"><div id="progressFill" class="progress-fill"></div></div>
+
+      <div class="scene-heading">
+        <div><p class="eyebrow" id="sceneKicker">TÌNH HUỐNG 1</p><h1 id="sceneTitle" tabindex="-1">An toàn</h1></div>
+        <span class="together-pill"><span aria-hidden="true">🤝</span> Cùng người lớn</span>
+      </div>
+
+      <div class="scene-card">
+        <div class="scene-art-wrap">
+          <img id="sceneArtImage" class="scene-art-image" alt="" hidden />
+          <canvas id="sceneArt" width="960" height="380" role="img" aria-label="Bé Gấu cùng người lớn" hidden></canvas>
+          <span class="scene-stamp" id="sceneStamp">BÉ GẤU AN TOÀN</span>
+        </div>
+        <div class="scene-question">
+          <span class="question-mark" aria-hidden="true">?</span>
+          <div>
+            <p id="hazardLabel" class="hazard-label">NGUY CƠ</p>
+            <p id="scenePrompt">Bé Gấu nên làm gì?</p>
+          </div>
+          <button id="speakSceneButton" class="speak-button speak-button-lg" type="button" aria-label="Nghe lại tình huống và nguy cơ" title="Nghe lại tình huống">
+            <span aria-hidden="true">🔊</span>
+            <span class="speak-button-label">Nghe lại</span>
+          </button>
+        </div>
+        <p id="lessonObjective" class="lesson-objective"></p>
+        <div class="choice-grid" id="choiceGrid" aria-label="Chọn cách giúp Bé Gấu"></div>
+        <p id="verdict" class="verdict" role="status" aria-live="polite" hidden></p>
+        <div id="feedback" class="feedback" role="status" aria-live="polite">Chạm một đáp án để nghe nội dung.</div>
+        <div class="scene-actions" id="sceneActions">
+          <button id="confirmChoiceButton" class="button button-primary" type="button" disabled>
+            Chọn đáp án <span aria-hidden="true">✓</span>
+          </button>
+          <button id="nextSceneButton" class="button button-primary" type="button" hidden>
+            Tình huống kế tiếp <span aria-hidden="true">→</span>
+          </button>
+        </div>
+      </div>
+      <p class="gentle-reminder"><span aria-hidden="true">🌼</span> Đây là trò chơi — ngoài đời hãy nghe người lớn hướng dẫn. Không thu tên hay dữ liệu cá nhân.</p>
+    </section>
+
+    <section id="finishPanel" class="finish-panel" hidden aria-labelledby="finishTitle">
+      <div class="finish-art" aria-hidden="true"><span>🌟</span><span>🐻</span><span>🏠</span></div>
+      <p class="eyebrow" id="finishEyebrow">MỘT BÀI ĐÃ XONG</p>
+      <h1 id="finishTitle">Hoàn thành!</h1>
+      <p class="finish-copy" id="finishCopy">Cảm ơn bé đã giúp Bé Gấu.</p>
+      <div class="finish-stars" id="finishStars" aria-label="Năm ngôi sao">★ ★ ★ ★ ★</div>
+      <aside class="class-reflection"><span aria-hidden="true">💬</span><div><strong>Cùng trò chuyện</strong><p id="classPrompt"></p></div></aside>
+      <aside class="class-reflection parent-note-block" id="parentNoteBlock" hidden>
+        <span aria-hidden="true">👪</span>
+        <div><strong>Dành cho phụ huynh</strong><p id="parentNote"></p></div>
+      </aside>
+      <div class="finish-actions">
+        <button id="returnHubButton" class="button button-primary" type="button">Về danh sách bài <span aria-hidden="true">→</span></button>
+        <button id="restartButton" class="button button-quiet" type="button">Học lại bài này <span aria-hidden="true">↻</span></button>
+      </div>
+      <p class="adult-note" id="finishSafetyNote">Ngoài đời, luôn cùng người lớn.</p>
+    </section>
+  </main>
+  <footer class="footer-note"><span>🐻</span> Bé Gấu An Toàn · thử nghiệm · chưa phê duyệt chuyên gia<span class="footer-divider">·</span>không thu dữ liệu</footer>
+  <script type="module" src="./src/ui.mjs?v=mam-non-track-1"></script>
+</body>
+</html>
